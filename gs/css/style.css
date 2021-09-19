@@ -1,0 +1,434 @@
+body{margin: 0; padding: 0;background: #F6F6F6;color:#B8B8B8;font-family: Arial, sans-serif;font-size: 16px;overflow-x: hidden;}
+
+div > .top_menu{
+    position:fixed;
+    font-size:1em;
+    background-color:white;
+    width:100%;
+    z-index:9999;
+}
+div a{
+    text-decoration:none;
+}
+.logo_l img{
+    width: 35px;
+    height:35px;
+    float: left;
+}
+.top_menu nav {
+    margin-left: 40%;
+}
+.top_menu nav ul > li {
+    float: left;
+    position: relative;
+}
+
+.top_menu nav ul a {
+    display: block;
+    padding: 10px;
+    color: black;
+}
+
+.top_menu nav ul {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.top_menu nav ul:after {
+    display: block;
+    content: ' ';
+    clear: both;
+    float: none;
+}
+
+
+.top_menu nav ul > li > a:hover {
+    transition: linear 1s;
+    background-color: silver;
+    text-decoration: underline;
+    border-radius:10px 10px 0px 0px;
+}
+
+.top_menu nav ul li > ul {
+    display: none;
+    position: absolute;
+    width: 120px;
+    top: 37px;
+    left: 0;
+    background-color: white;
+    border: 1px dotted silver;
+    border-radius: 0px 10px 10px;
+    padding:5px;
+    width:200px;
+}
+.top_menu nav ul li > ul li a:hover{
+    border-radius: 10px;
+}
+.top_menu nav ul li:hover > ul {
+        display: block;
+}
+
+.one_background_image{
+    background-color:#f1f1f1;
+    height:700px;
+    width:100%;
+    
+}
+.one_background_image > div{
+   position:absolute;
+   color:black;
+   z-index:10;
+   margin:200px 0px 0px 50px
+}
+
+.one_background_image >  img{
+  margin: 50px 0px 0px 50%;
+}
+
+.content_kurs {
+    background-color: white;
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+}
+.content_content {
+    background-color:white;
+    width:100%
+}
+.content_kurs  > div{
+    width:300px;
+    height:450px;
+    margin:30px 0px 0px 7%;
+    display:inline-block;
+    border-radius:20px;
+    border:2px dotted silver;
+}
+
+.content_kurs div > div:first-child, .content_kurs div > div:last-child {
+    background-color: #ededed;
+    width: 100%;
+    text-align: center;
+    color: black;
+    padding: 20px 0px
+}
+.content_kurs div > div:first-child {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.content_kurs div > div:last-child {
+    border-radius: 0px 0px 20px 20px;
+    margin-top:333px;
+}
+
+.content_kurs div > img{
+    width:298px;
+    height:350px;
+    position:absolute
+}
+
+.test_content > div{
+    width:1350px;
+    margin:auto;
+}
+.test_content {
+    background-color: #3c68e2;
+    width: 100%;
+    height: 800px;
+}
+.test_content div div:first-child {
+    width:660px;
+}
+
+.test_content div div:first-child img{
+    margin-top:200px;
+}
+
+.block_text  {
+    position: absolute;
+    font-size: 20px;
+    padding-right: 5px;
+    margin:-500px 0px 0px 800px;
+    width:450px;
+    word-wrap:break-word;
+}
+.block_text  div{
+    padding-top:20px;
+}
+
+.block_text > div:first-child{
+    font-size:40px;
+    width:450px;
+}
+
+.text_content_text > div:last-child{
+    background-color:#52dfed;
+    position:absolute;
+    padding:10px 40px;
+    border-radius: 10px;
+    margin: -100px 0px 0px 1100px;
+    font-size:20px;
+    box-shadow:#3eadb9 10px 10px 15px 20px inset;
+}
+
+.text_content_text > div:last-child:hover{
+    cursor:pointer;
+    box-shadow:#3eadb9 1px 10px 20px 1px inset;
+    transition: 0.5s;
+    color:white;
+}
+
+.galery_content, .help_footer{
+    width: 1400px;
+    height: 900px;
+    margin: auto;
+    background-color: white;
+}
+
+.galery_content > div{
+    width:1200px;
+    height:700px;
+    position:relative;
+    top:100px;
+    margin:auto;
+    border: 2px dotted silver;
+    border-radius:40px;
+    box-shadow: silver 5px 5px  100px 40px inset;
+}
+
+.galery_content > div div, .galery_content > div div img{
+    float:left;
+    width:200px;
+    height:300px;
+    padding:15px 0px 5px 10px;
+}
+
+.galery_content span {
+    color: black;
+    position:absolute;
+    font-size:20px;
+    margin:300px 0px 0px 10px;
+    border:2px solid white;
+    padding:20px 50px;
+    border-radius:20px;
+    background-color:white;
+    opacity:0.3;
+    font-weight:800;
+}
+
+.galery_content div:hover > span, .help_footer:hover > div, .help_footer:hover > div div, .help_footer:hover img{
+     opacity:1;
+}
+
+.galery_content div:hover > span{
+    transition:0.5s all;
+    cursor:pointer;
+    background-color:#f7f7f7;
+    margin-left:500px;
+    border-color:silver;
+}
+
+.galery_content span:hover, .galery_content a:hover  {
+    box-shadow: black 20px 25px 60px 40px inset;
+    color:red
+}
+
+.help_footer {
+    height:600px;
+}
+
+.help_footer img, .help_footer > div, .help_footer > div div{
+    opacity:0;
+}
+
+.help_footer img{
+    border-radius:60px 0px 0px 60px;
+    width:600px;
+    margin-left:-900px;
+}
+
+.help_footer > div{
+    width: 950px;
+    height:525px;
+    position:absolute;
+    margin: -530px 0px 0px -900px;
+    background-color:white;
+    border-radius: 150px 0px 0px 150px;
+}
+
+.help_footer > div > div{
+    position:absolute;
+    width: 800px;
+    height:525px;
+    margin-left:1800px;
+}
+
+.help_footer:hover > div{
+    margin: -530px 0px 0px 450px;
+    transition: 0.5s all;
+}
+.help_footer:hover img{
+    transition: 0.5s all;
+    margin-left:0px;
+}
+.help_footer:hover > div div{
+    margin-left: 80px;
+    transition: 0.5s all;
+}
+
+.help_footer form {
+   font-size:25px;
+}
+
+.help_footer form div input {
+   width:400px;
+   height:30px;
+}
+
+.help_footer form div textarea{
+    width:400px;
+    height:60px;
+}
+
+.help_footer form > div:last-child  input{
+   border:0;
+   border-radius:30px;
+   font-size:20px;
+   cursor:pointer;
+}
+
+hr{
+    border:2px solid silver;
+    width:90%;
+}
+
+footer{
+    width:100%;
+    height:100px;
+}
+
+footer > div{
+    width:1300px;
+    height:100px;
+    margin:auto;
+}
+
+footer > div div:last-child{
+    margin:-20px 0px 0px 300px;
+}
+.calling{
+    position: fixed;
+    left:10px;
+    bottom: 10px;
+    z-index: 9999;
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 5px;
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+.opacityContent{
+    width: 100%;
+    height: 100%;
+    background: black;
+    position: fixed;
+    z-index: 9999;
+    opacity: 0.4;
+    display: none;
+}
+.mainContent, .opacityCall{
+    background: white;
+    z-index: 99999;
+    border-radius: 50px 0px 50px 50px;
+    top: 10%;
+    position: fixed;
+}
+.opacityCall{
+    width: 30%;
+    height: 40%;
+    left: 38%;
+    display: none;
+}
+.closeCall, .closeMain{
+    float: right;
+    padding: 5px;
+    color: red;
+    background: silver;
+    border-bottom-left-radius: 5px; 
+    cursor: pointer;
+}
+.formCalling{
+    margin: 70px 0px 0px 20px;
+}
+.callingSent{
+    border-radius: 5px;
+    background:yellow;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px 1px yellow;
+    margin: 50px 0px 0px 200px;
+}
+.osnK{
+    cursor: pointer;
+}
+.mainContent{
+    width: 50%;
+    height: 90%;
+    left: 25%;
+    overflow-y: scroll;
+    display: none;
+}
+.mainAllContent{
+    padding: 20px;
+    overflow-x: hidden;
+}
+.mainAllContent h2{margin: 50px 0px 0px 200px;}
+.allStyle{
+    background: #E9E9E9;
+    color:black;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.allStyle > .firstDiv{
+    font-size: 25px;
+}
+.begineMenu >div{
+    float: left;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.begineMenu{
+    position: fixed;
+    background: white;
+    padding: 10px;
+}
+.userPsiTest{
+    position: relative;
+    left:330px;
+    top:-250px;
+}
+
+.imagesGalery{
+    width: 250px;
+    height: 170px;
+    padding: 10px;
+}
+.imagesGalery:hover{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    transition:linear 0.3s ;
+    animation: 5s linear;
+    border-radius: 60px;
+    
+}
+
+
+
+
+
+

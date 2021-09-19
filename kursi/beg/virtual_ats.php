@@ -125,7 +125,7 @@
             <div class="viats_tarif1_co flex flDirRow">
               <div class="viats_tarif1h1">Small Business</div><div class="viats_tarif1h1_p font_icon_posi"> 3</div>
             </div>
-            <div class="viats_tarif1_Price"> 15m / в мес</div><hr />
+            <div class="viats_tarif1_Price"> 15m /в мес (при оплате на 1 год)</div><hr />
             <div class="viats_tarif1_list_img1">
               <span class="viats_tarif1_listIco1 viats_listIco"></span>Личный кабинет Админ
               <span class="viatsTar_value">1</span>
@@ -163,7 +163,7 @@
             <div class="viats_tarif1_co flex flDirRow">
               <div class="viats_tarif1h1">Medium Business</div><div class="viats_tarif1h1_p font_icon_posi"> 8</div>
             </div>
-            <div class="viats_tarif1_Price"> 40m / в мес</div><hr />
+            <div class="viats_tarif1_Price"> 40m /в мес (при оплате на 1 год)</div><hr />
             <div class="viats_tarif1_list_img1">
               <span class="viats_tarif1_listIco1 viats_listIco"></span>Личный кабинет Админ
               <span class="viatsTar_value">1</span>
@@ -213,7 +213,7 @@
             <div class="viats_tarif1_co flex flDirRow">
               <div class="viats_tarif1h1">Big Business</div><div class="viats_tarif1h1_p font_icon_posi"> 15</div>
             </div>
-            <div class="viats_tarif1_Price"> 100m / в мес</div><hr />
+            <div class="viats_tarif1_Price"> 100m /в мес (при оплате на 1 год)</div><hr />
             <div class="viats_tarif1_list_img1">
               <span class="viats_tarif1_listIco1 viats_listIco"></span>Личный кабинет Админ
               <span class="viatsTar_value">3</span>
@@ -259,7 +259,7 @@
               <span class="viatsTar_value">100</span>
             </div>
             <div class="viatsTarif1_list">
-              <span class="viats_tarif1_listIco9 viats_listIco"></span>Очереди
+              <span class="viats_tarif1_listIco9 viats_listIco"></span>Очередь (CallCenter)
               <span class="viatsTar_value">+</span>
             </div>
           </div>
@@ -275,7 +275,7 @@
             <div class="viats_tarif1_co flex flDirRow">
               <div class="viats_tarif1h1">Unlimited</div><div class="viats_tarif1h1_p font_icon_posi"> 30</div>
             </div>
-            <div class="viats_tarif1_Price"> 180m / в мес</div><hr />
+            <div class="viats_tarif1_Price"> 180m /в мес (при оплате на 1 год)</div><hr />
             <div class="viats_tarif1_list_img1">
               <span class="viats_tarif1_listIco1 viats_listIco"></span>Личный кабинет Админ
               <span class="viatsTar_value">5</span>
@@ -325,7 +325,7 @@
               <span class="viatsTar_value">+</span>
             </div>
             <div class="viatsTarif1_list">
-              <span class="viats_tarif1_listIco9 viats_listIco"></span>Очереди
+              <span class="viats_tarif1_listIco9 viats_listIco"></span>Очередь (CallCenter)
               <span class="viatsTar_value">+</span>
             </div>
             <div class="viatsTarif1_list">
@@ -353,9 +353,10 @@
   </div>
   <div class="viats_calc_price">
     <div class="wraper_position">
+      <div class="viats_calc_h1_mother">При оплате на один месяц</div>
       <div class="viats_calcWr flex flWrap">
         <div class="viats_calc_left">
-          <div class="">
+          <div class="viats_calc_left_inp">
             <div class="viats_calc_h1">Количество сотрудников<br />(внутрение номера)</div>
             <div class="viats_calcJs flex flDirRow">
               <div class="viats_calcJs_left calc_buttom_all" onclick="calc_number('dec','viats_calc_num')">
@@ -390,43 +391,45 @@
         </div>
         <div class="viats_calc_right">
           <div class="">
-            <input type="checkbox" id="calc_outNumber"  onclick="check('calc_outNumber')">
-            <label for="calc_outNumber"> 1 городской номер</label>
+            <input type="checkbox" id="calc_outNumber"  onclick="viatcTotalCalc('calc_outNumber')">
+            <label for="calc_outNumber">Городской номер</label>
           </div>
           <div class="">
-            <input type="checkbox" id="calc_ivrr"  >
+            <input type="checkbox" id="calc_ivrr"  onclick="viatcTotalCalc('calc_ivrr')">
             <label for="calc_ivrr">Система IVR</label>
           </div>
           <div class="">
-            <input type="checkbox" id="calc_ivrr"  >
-            <label for="calc_ivrr">Очереди</label>
+            <input type="checkbox" id="queues" onclick="viatcTotalCalc('queues')">
+            <label for="queues">Очередь (CallCenter)</label>
           </div>
           <div class="">
-            <input type="checkbox" id="calc_ivrr"  >
-            <label for="calc_ivrr">обратный звонок</label>
+            <input type="checkbox" id="callBack" onclick="viatcTotalCalc('callBack')">
+            <label for="callBack">обратный звонок</label>
           </div>
           <div class="">
-            <input type="checkbox" id="calc_ivrr"  >
-            <label for="calc_ivrr">Личный кабинет Админ</label>
+            <input type="checkbox" id="PersonalArea" onclick="viatcTotalCalc('PersonalArea')">
+            <label for="PersonalArea">Личный кабинет Админ</label>
           </div>
           <div class="">
-            <input type="checkbox" id="calc_ivrr"  >
-            <label for="calc_ivrr">Личный кабинет оператор</label>
+            <input type="checkbox" id="PersonalOpe" onclick="viatcTotalCalc('PersonalOpe')">
+            <label for="PersonalOpe">Личный кабинет оператор</label>
           </div>
           <div class="">
-            <input type="checkbox" id="calc_ivrr"  >
-            <label for="calc_ivrr">Мобильный номер</label><br />
+            <input type="checkbox" id="MobNumber" onclick="viatcTotalCalc('MobNumber')">
+            <label for="MobNumber">Мобильный номер</label><br />
           </div>
           <div class="">
-            <input type="checkbox" id="calc_ivrr" >
-            <label for="calc_ivrr">Система CRM</label>
+            <input type="checkbox" id="CRM_sustem" onclick="viatcTotalCalc('CRM_sustem')">
+            <label for="CRM_sustem">Система CRM</label>
           </div>
           <div class="">
-            <input type="checkbox" id="calc_ivrr"  >
-            <label for="calc_ivrr">Массовая рассылка СМС</label>
+            <input type="checkbox" id="SMS_seding" onclick="viatcTotalCalc('SMS_seding')">
+            <label for="SMS_seding">Массовая рассылка СМС</label>
           </div>
         </div>
-        <div class="viats_calc_total" id="viats_calc_total">10м /месяц </div>
+        <div class="viats_ca_price">
+          <div class="viats_calc_total" id="viats_calc_total"> 10 </div><span> AZN/ месяц <br />(7 дней бесплатно)</span>
+        </div>
       </div>
     </div>
   </div>
@@ -508,18 +511,11 @@
 </div>
 <script>
 function checkCalc_val(elid){
-  var res = document.getElementById(elid).value;
-  return res*=1;
+  return parseInt(document.getElementById(elid).value);
 }
-function calc_number(dir, elid ){
-  calc_All(dir, elid );
-}
-function calc_dayA(dir, elid ){
-  calc_All(dir, elid );
-}
-function calc_mb(dir, elid ){
-  calc_All(dir, elid );
-}
+function calc_number(dir, elid ){calc_All(dir, elid );}
+function calc_dayA(dir, elid ){calc_All(dir, elid );}
+function calc_mb(dir, elid ){calc_All(dir, elid );}
 function calc_All( dir, elid ) {
   var res = checkCalc_val(elid);
   if(res == 0)
@@ -548,31 +544,88 @@ function calc_All( dir, elid ) {
     }
     viatcTotalCalc();
   }
-  function viatcTotalCalc(){
+  function resultAllaCalc(data){
+    document.querySelector('.viats_calc_total').innerText=Math.ceil(data);
+  }
+function ValidatI(data){
+  if(data){
+    let checkedX = document.getElementById(data);
+    if(checkedX.checked){
+      checkedX.classList.add(data);
+      return checkedX;
+    }else{
+      checkedX.classList.remove(data);
+    }
+  }
+}
+  function viatcTotalCalc(data){
+    let checkedX = ValidatI(data);
+    let ch1 = document.querySelector(".calc_outNumber");
+    let ch2 = document.querySelector(".calc_ivrr");
+    let ch3 = document.querySelector(".queues");
+    let ch4 = document.querySelector(".callBack");
+    let ch5 = document.querySelector(".PersonalArea");
+    let ch6 = document.querySelector(".PersonalOpe");
+    let ch7 = document.querySelector(".MobNumber");
+    let ch8 = document.querySelector(".CRM_sustem");
+    let ch9 = document.querySelector(".SMS_seding");
     let value_number = document.querySelector('#viats_calc_num').value;
     let value_day = document.querySelector('#viats_calc_day').value;
     let value_mb = document.querySelector('#viats_calc').value;
     let resultV = document.querySelector('.viats_calc_total').innerText;
     value_number *= 5;
-    value_day *= 0.02;
+    value_day *= 0.05;
     value_mb *= 0.02;
-    let totalC = value_number + value_day + value_mb;
-    document.querySelector('.viats_calc_total').innerText=totalC.toFixed(2);
-  }
-
-  function check(sourse) {
-    let checkedX = document.getElementById(sourse);
-    let onC = document.getElementById(sourse).value;
-    let result = parseInt(document.querySelector('.viats_calc_total').innerText);
-    if(checkedX.checked){
-      switch(sourse){
-        case "calc_outNumber":
-          result +=10;
-          document.getElementById("viats_calc_total").innerText = result.toFixed(2);
-          break
-        default:
+    var totalC = value_number + value_day + value_mb;
+    if(checkedX||ch1||ch2||ch3||ch4||ch5||ch6||ch7||ch8||ch9){
+      if(ch1){
+        if(data == "calc_outNumber" || ch1.classList.contains("calc_outNumber")){
+          totalC +=5;
+        }
       }
+      if(ch2){
+        if(data == "calc_ivrr" || ch2.classList.contains("calc_ivrr")){
+          totalC +=10;
+        }
+      }
+      if(ch3){
+        if(data == "queues" || ch3.classList.contains("queues")){
+          totalC +=15;
+        }
+      }
+      if(ch4){
+        if(data == "callBack" || ch4.classList.contains("callBack")){
+          totalC +=5;
+        }
+      }
+      if(ch5){
+        if(data == "PersonalArea" || ch5.classList.contains("PersonalArea")){
+          totalC +=5;
+        }
+      }
+      if(ch6){
+        if(data == "PersonalOpe" || ch6.classList.contains("PersonalOpe")){
+          totalC +=5;
+        }
+      }
+      if(ch7){
+        if(data == "MobNumber" || ch7.classList.contains("MobNumber")){
+          totalC +=30;
+        }
+      }
+      if(ch8){
+        if(data == "CRM_sustem" || ch8.classList.contains("CRM_sustem")){
+          totalC +=50;
+        }
+      }
+      if(ch9){
+        if(data == "SMS_seding" || ch9.classList.contains("SMS_seding")){
+          totalC +=15;
+        }
+      }
+    }else{
+      totalC = value_number + value_day + value_mb;
     }
-
+    resultAllaCalc(totalC);
   }
 </script>

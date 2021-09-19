@@ -1,0 +1,41 @@
+CRITICAL - 2021-03-24 07:34:02 --> Class 'App\Models\TarifsModel' not found
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-24 07:36:21 --> Class 'App\Models\TVTarifsModel' not found
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->tv()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-24 08:22:24 --> Return value of CodeIgniter\Language\Language::requireFile() must be of the type array, int returned
+#0 /var/www/invader/data/www/dg-tech.az/system/Language/Language.php(275): CodeIgniter\Language\Language->requireFile('Language/ru/App...')
+#1 /var/www/invader/data/www/dg-tech.az/system/Language/Language.php(198): CodeIgniter\Language\Language->load('App', 'ru')
+#2 /var/www/invader/data/www/dg-tech.az/system/Language/Language.php(118): CodeIgniter\Language\Language->parseLine('main_page_title', 'ru')
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(789): CodeIgniter\Language\Language->getLine('App.main_page_t...', Array)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(14): lang('App.main_page_t...')
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-24 16:06:28 --> Invalid file: admin/index.php
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/index.php')
+#1 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('admin/index', Array, true)
+#2 /var/www/invader/data/www/dg-tech.az/app/Controllers/AdminPanel.php(14): view('admin/index')
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\AdminPanel->index()
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminPanel))
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-24 16:07:42 --> Invalid file: admin/index.php
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/index.php')
+#1 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('admin/index', Array, true)
+#2 /var/www/invader/data/www/dg-tech.az/app/Controllers/AdminPanel.php(14): view('admin/index')
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\AdminPanel->index()
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminPanel))
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}

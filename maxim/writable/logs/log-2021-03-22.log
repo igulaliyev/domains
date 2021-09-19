@@ -1,0 +1,852 @@
+CRITICAL - 2021-03-22 12:11:45 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:11:58 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:15 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:16 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:16 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:16 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:16 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:16 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:17 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:17 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:12:17 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:04 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:48 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:49 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:49 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:49 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:49 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:50 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:50 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:13:51 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:22:57 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:40:09 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:40:15 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:40:31 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:41:44 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:43:29 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:43:30 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:43:30 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:43:30 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:43:31 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:43:31 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:45:45 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:45:46 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:46:39 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:46:40 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:46:40 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:00 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:01 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:01 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:01 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:06 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:09 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:34 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:35 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:35 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:36 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:36 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:36 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:47:37 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 12:48:36 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 13:06:39 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 13:09:13 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 13:09:29 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 13:10:07 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/invader/data/www/dg-tech.az/system/bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(35): require('/var/www/invade...')
+#4 {main}
+CRITICAL - 2021-03-22 05:47:33 --> Call to a member function view() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 06:56:44 --> Invalid file: tv.php
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tv.php')
+#1 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('tv', Array, true)
+#2 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(30): view('tv')
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->tv()
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-22 09:09:26 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:14:18 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:18:30 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:20:23 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:25:59 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:29:08 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:29:10 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:33:16 --> Call to a member function model() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:34:16 --> Call to a member function model() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:37:26 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:38:05 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:38:34 --> Call to a member function getTarifs() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:39:22 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:39:32 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:39:43 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:39:44 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:42:10 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:42:24 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:42:34 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:43:45 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+#0 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-22 09:45:36 --> syntax error, unexpected '$data' (T_VARIABLE), expecting ')'
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(893): class_exists('\\App\\Controller...', true)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(417): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 09:45:55 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php on line 48
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(48): view('header', 'Tarifl\xC9\x99r')
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 09:48:29 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(893): class_exists('\\App\\Controller...', true)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(417): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 09:49:01 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(893): class_exists('\\App\\Controller...', true)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(417): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 09:49:43 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(893): class_exists('\\App\\Controller...', true)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(417): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 10:00:06 --> syntax error, unexpected end of file
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#2 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-22 10:00:31 --> Invalid argument supplied for foreach()
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/invade...', 11, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:03:43 --> Invalid argument supplied for foreach()
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/invade...', 11, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:03:47 --> Invalid argument supplied for foreach()
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/invade...', 11, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array, Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:03:51 --> Invalid argument supplied for foreach()
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/invade...', 11, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array, Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:06:31 --> Argument 2 passed to view() must be of the type array, object given, called in /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php on line 56
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Object(CodeIgniter\Database\MySQLi\Result))
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 10:06:55 --> Argument 2 passed to view() must be of the type array, object given, called in /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php on line 56
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Object(CodeIgniter\Database\MySQLi\Result))
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 10:07:19 --> Argument 2 passed to view() must be of the type array, object given, called in /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php on line 56
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Object(CodeIgniter\Database\MySQLi\Result))
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 10:07:23 --> Argument 2 passed to view() must be of the type array, object given, called in /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php on line 56
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Object(CodeIgniter\Database\MySQLi\Result))
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 10:11:24 --> Cannot use object of type mysqli as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 10:12:31 --> Object of class mysqli could not be converted to string
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 10:12:34 --> Object of class mysqli could not be converted to string
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 10:20:17 --> Class 'App\Models\Model' not found
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(294): include_once()
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Tari...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Tari...')
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(48): spl_autoload_call('App\\Models\\Tari...')
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:20:42 --> Class 'App\Models\Model' not found
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(294): include_once()
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Tari...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Tari...')
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(48): spl_autoload_call('App\\Models\\Tari...')
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:21:26 --> Class 'CodeIgniter\Models' not found
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(294): include_once()
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Tari...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Tari...')
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(48): spl_autoload_call('App\\Models\\Tari...')
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:22:23 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(52): App\Models\TarifsModel->getTarifs()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 10:24:50 --> Cannot use object of type mysqli as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 10:24:53 --> Cannot use object of type mysqli as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 10:27:01 --> Cannot use object of type mysqli as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 10:28:15 --> Invalid argument supplied for foreach()
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/invade...', 12, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:28:18 --> Invalid argument supplied for foreach()
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/invade...', 12, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:29:53 --> Illegal string offset 'name'
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/var/www/invade...', 17, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:29:55 --> Illegal string offset 'name'
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/var/www/invade...', 17, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(56): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:32:17 --> Illegal string offset 'name'
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/var/www/invade...', 17, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(58): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:32:18 --> Illegal string offset 'name'
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/var/www/invade...', 17, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(58): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:35:54 --> Illegal string offset 'name'
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/var/www/invade...', 17, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(57): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:36:02 --> Illegal string offset 'name'
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/var/www/invade...', 17, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(57): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 10:36:36 --> Illegal string offset 'name'
+#0 /var/www/invader/data/www/dg-tech.az/app/Views/internet.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/var/www/invade...', 17, Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include('/var/www/invade...')
+#2 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('internet', Array, true)
+#4 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(57): view('internet', Array)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-22 17:54:13 --> Call to undefined method App\Models\TarifsModel::getTarifs
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(54): CodeIgniter\Model->__call('getTarifs', Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 17:57:19 --> Call to undefined method App\Models\TarifsModel::getTarifs
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(54): CodeIgniter\Model->__call('getTarifs', Array)
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 17:58:44 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Tari...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Tari...')
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(50): spl_autoload_call('App\\Models\\Tari...')
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-22 18:02:45 --> Call to a member function query() on null
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(54): App\Models\TarifsModel->GetTarifs()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 18:03:07 --> Call to a member function query() on null
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(54): App\Models\TarifsModel->GetTarifs()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 18:06:16 --> Call to a member function query() on null
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(54): App\Models\TarifsModel->GetTarifs()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 18:06:23 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(54): App\Models\TarifsModel->GetTarifs()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 18:06:34 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(54): App\Models\TarifsModel->GetTarifs()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-22 18:06:59 --> Call to a member function table() on null
+#0 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(54): App\Models\TarifsModel->GetTarifs()
+#1 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->internet()
+#2 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}

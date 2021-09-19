@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Flex</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+    body{background-color: red}
+    .wrapper{background-color: blue}
+    .block{background-color: white}
+      .block_row{border: 10px solid yellow;
+        display: flex;
+        flex-direction: column;
+        height: 400px
+}/*flex-conteyner*/
+      .block_colum{border: 10px solid grey;} /*flex -element*/
+      .block_item{background-color: green; padding: 10px;}
+      .block_colum:nth-child(2){
+        flex: 1 1 auto;
+      }
+    </style>
+  </head>
+  <body>
+	<div class="wrapper">
+    <div class="block">
+      <div class="block_row">
+        <div class="block_colum">
+          <div class="block_item">1</div>
+        </div>
+        <div class="block_colum">
+          <div class="block_item">2</div>
+        </div>
+        <div class="block_colum">
+          <div class="block_item">3</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </body>
+</html>

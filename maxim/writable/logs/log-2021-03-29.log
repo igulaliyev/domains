@@ -1,0 +1,126 @@
+CRITICAL - 2021-03-29 03:41:48 --> syntax error, unexpected end of file
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('faq', Array, true)
+#2 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(84): view('faq', Array)
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->faq()
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-29 03:41:52 --> syntax error, unexpected end of file
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('faq', Array, true)
+#2 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(84): view('faq', Array)
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->faq()
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-29 03:42:39 --> syntax error, unexpected end of file
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('faq', Array, true)
+#2 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(84): view('faq', Array)
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->faq()
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-29 03:42:46 --> syntax error, unexpected end of file
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('faq', Array, true)
+#2 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(84): view('faq', Array)
+#3 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->faq()
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-29 09:32:49 --> syntax error, unexpected ';', expecting ']'
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(893): class_exists('\\App\\Controller...', true)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(417): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-29 09:33:44 --> syntax error, unexpected ';', expecting ']'
+#0 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/invade...')
+#1 /var/www/invader/data/www/dg-tech.az/system/Autoloader/Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(893): class_exists('\\App\\Controller...', true)
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(417): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-29 10:38:06 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('page', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(44): view('page', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->about()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-29 10:38:12 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('page', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(44): view('page', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->about()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-29 10:39:05 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('page', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(44): view('page', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->about()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-29 10:39:09 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('page', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(44): view('page', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->about()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-29 10:39:12 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('page', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(44): view('page', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->about()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-29 10:39:14 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('page', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(44): view('page', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->about()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-29 10:41:37 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('page', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(44): view('page', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->about()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}

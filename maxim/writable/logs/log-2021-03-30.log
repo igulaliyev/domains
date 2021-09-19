@@ -1,0 +1,10 @@
+CRITICAL - 2021-03-30 09:13:38 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 /var/www/invader/data/www/dg-tech.az/system/View/View.php(220): include()
+#1 /var/www/invader/data/www/dg-tech.az/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /var/www/invader/data/www/dg-tech.az/system/Common.php(1217): CodeIgniter\View\View->render('page', Array, true)
+#3 /var/www/invader/data/www/dg-tech.az/app/Controllers/Home.php(44): view('page', Array)
+#4 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(936): App\Controllers\Home->about()
+#5 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /var/www/invader/data/www/dg-tech.az/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/invader/data/www/dg-tech.az/public/index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}

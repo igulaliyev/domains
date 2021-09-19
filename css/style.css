@@ -1,0 +1,53 @@
+html, body{
+  margin:0px; padding: 0px; color: black; background-color: white; font-size: 18px; font-family: sans-serif;
+}
+.top_menu{
+  background-color: green;
+  height: 100px;
+  width: 100%;
+  display: flex;
+}
+
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color: orange;
+}
+a:hover{
+  font-size: 20px;
+  color:#231a24;
+  transition: 0.6s;
+}
+ul, li{display: flex; flex-wrap: wrap; margin-left: 20px}
+
+.main{display: block; text-align: center;}
+.main  > dl dt{
+  font-weight: bold;
+  font-style: italic;
+}
+
+.main_o form{
+  margin-left: 100px;
+}
+
+form input[type="submit"]{
+  font-size: 25px;
+  border-radius: 10px;
+  background-color: green;
+  color: black;
+  border: 0px;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover{
+  transition-property: color;
+  transition-duration:2s;
+  transition-timing-function: ease-out;
+  background-color: #620C8E;
+  color: white;
+}
+
+.main_c{
+  text-align: center;
+  margin-top: 100px;
+}
