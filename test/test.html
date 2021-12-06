@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+    p:target {
+      background-color: gold;
+    }
+    p:target::before {
+      font: 70% sans-serif;
+      content: "►";
+      color: limegreen;
+      margin-right: .25em;
+    }
+    p:target i {
+      color: red;
+    }
+    </style>
+  </head>
+  <body>
+    <fieldset>
+ <legend>Ship the blue gift to...</legend>
+ <p> <label> Address:     <textarea name=ba autocomplete="section-blue shipping street-address"></textarea> </label>
+ <p> <label> City:        <input name=bc autocomplete="section-blue shipping address-level2"> </label>
+ <p> <label> Postal Code: <input name=bp autocomplete="section-blue shipping postal-code"> </label>
+</fieldset>
+<fieldset>
+ <legend>Ship the red gift to...</legend>
+ <p> <label> Address:     <textarea name=ra autocomplete="section-red shipping street-address"></textarea> </label>
+ <p> <label> City:        <input name=rc autocomplete="section-red shipping address-level2"> </label>
+ <p> <label> Postal Code: <input name=rp autocomplete="section-red shipping postal-code"> </label>
+</fieldset>
+  </body>
+</html>

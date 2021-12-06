@@ -18,7 +18,7 @@
   <div class="viats_help_buss">
     <div class="wraper_position viats_help_buss_wraper">
       <div class="viats_help_h1">
-       Как услуга поможет бизнесу
+       Как услуга поможет бизнесу ?
       </div>
       <div class="viats_help_content flex">
         <div class="box_position flex flWrap">

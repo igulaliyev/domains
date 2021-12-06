@@ -1,0 +1,23 @@
+.frontend__ > div{padding: 2rem 0px}
+  .frontend__header{margin: 2rem 0px;}
+  .frontend__header_colBack{background-color: #D36C16;
+    color: white;
+  }
+    .frontend__header_wr > div{width: 40%; padding: 8rem 0px;}
+    .frontend__header_h1{text-align: center;font-size: 6rem;}
+    .frontend__header_txt{margin-left: 3rem;}
+  .frontend__course{width: 100%;}
+    .frontend_1_html_wr > div{width: 26%;}
+    .frontend_1_html_wr{justify-content: space-around; padding-top: 4rem}
+    .frontend__possition{height: 15rem;}
+    .frontend__possition_backg{background-color: #FFF5EC}
+    .frontend_1_html_h1{margin-bottom: 1rem; font-size: 20px; font-weight: bold}
+    .frontend_1_html_b4{padding: 1.3rem 7rem 1.3rem 1.3rem;
+      border: 1px solid #FFA759;
+      width: 10% !important;
+      border-radius: 5%;
+      color:#FE7E0D;
+      font-size: 18px;
+      text-align: center;
+    }
+.frontend__a_color a{color: #FE7E0D;}

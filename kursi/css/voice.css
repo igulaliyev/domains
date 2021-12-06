@@ -1,0 +1,41 @@
+.voice_head{width: 100%; overflow-x: hidden;}
+.voice_wraper{margin: 5rem 0px; justify-content: space-around;}
+  .voice_left_head{align-items: center;}
+  .voice_left_h1{font-size: 20px;font-weight: bold; margin-bottom: 2rem}
+  .voice_left_tect{font-size: 17px;}
+  .voice_left_tect span::before{font-family: unicons-line;content: '\eb41';color:#7BBDFF}
+  .voice_left_bottom{width: 50%;
+    margin-top: 3rem;
+    text-align: center;
+    border: 1px solid #7BBDFF;
+    padding: 1rem;
+    border-radius:8%;
+    color:#7BBDFF;
+    font-weight: bold;
+  }
+  .voice_right_imgCover{max-width: 100%;}
+.voice_why_ipPhone{background-color: #EBF5FF; margin-bottom: 2rem;}
+  .voice_why_wrap{justify-content: space-around;}
+  .voice_why_wrap > div{width: 35%;}
+  .voice_why_cont{background-color: #0069D1; margin: 3rem 0px;padding: 1rem;color:white; font-size: 18px;}
+  .voice_why_cont1_h1,.voice_work_h1{text-align: center;font-size: 18px; font-weight: bold; margin: 2rem 0px;}
+.voice_benefits_wraper{margin: 3rem 0px;text-align: center;}
+  .voice_benefits_body{width: 70%; margin: 0 auto;}
+  .voice_benefits_h1{font-size: 20px; font-weight: bold;margin-bottom: 2rem}
+  .voice_work_wraper{margin: 2rem 0px;}
+.voice_work_backgroud{background-color: #B6DBFF; padding: 1rem; border-left: 5px solid #0081FF;}
+.voice_work_header{width: 60%;margin: 0 auto;margin-bottom: 3rem;}
+.voice_work_body{width: 100%;justify-content:space-between;}
+  .voice_work_body > div{width: 40%; margin-bottom: 3rem;}
+.voice_advantage_{width: 100%}
+  .voice_advantage_h1{margin:2rem 0px; text-align: center;font-size: 20px; font-weight: bold}
+  .voice_advantage_body{justify-content: space-around;margin:2rem 0px}
+  .voice_advantage_body > div{border: 1px solid #B9DDFF;
+    padding: 1rem;border-radius: 3%; color:#5BAEFF}
+  .voice_advantage_box1{width: 30%;}
+  .voice_advantage_box1_h1{margin:1rem 0px; color: #0059B0}
+.voice_crm{padding: 4rem 0px}
+  .voice_crm_images{max-width: 83%;}
+  .voice_crm_h1{text-align: center;margin-bottom: 2rem; font-size: 20px; font-weight: bold; margin: 5rem 0px;}
+  .voice_crm_body > div{width: 50%}
+  .voice_crm_txt > span::before{content: '\eb41'; font-family:unicons-line; color:#74BBFF}

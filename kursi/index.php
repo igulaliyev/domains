@@ -12,13 +12,30 @@
   <title>Wit</title>
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/virtual_ats.css">
+  <link rel="stylesheet" href="css/voice.css">
   <link rel="stylesheet" href="css/media.css">
+  <link rel="stylesheet" href="css/frontend.css">
+  <link rel="stylesheet" href="css/frontend_htmlCss.css">
+  <link rel="stylesheet" href="css/frontend_course.css">
+  <link rel="stylesheet" href="css/htmlcss.css">
+  <link rel="stylesheet" href="css/htmlcss2.css">
+  <link rel="stylesheet" href="css/line.css">
+  <link rel="stylesheet" href="css/javascript_all.css">
   <link rel="shortcut icon" href="images/logo_ico.png">
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-</head>
+  <script type="text/javascript" >
+  /*  window.onkeydown = function(evt) {
+        if(evt.keyCode == 123) return false;
+    };
+
+    window.onkeypress = function(evt) {
+        if(evt.keyCode == 123) return false;
+    };
+    document.oncontextmenu = cmenu; function cmenu() { return false; }*/
+</script>
+</head> <!-- onmousedown="return false" onselectstart="return false"-->
 <body>
-  <div class="wraper">
+  <div class="wraper flex flexDirCol">
     <?PHP include_once("main_menu.php");
     @$id = $_GET['id'];
     if($id !== ' '){
@@ -26,7 +43,23 @@
         case 'IPphone':
           include_once("beg/voice.php");break;
         case 'virtual_ats':
-            include_once("beg/virtual_ats.php");break;
+          include_once("beg/virtual_ats.php");break;
+        case 'voice':
+          include_once("beg/voice.php");break;
+        case 'FrontEnd':
+          include_once("beg/frontend.php");break;
+        case 'BackEnd':
+          include_once("beg/backend.php");break;
+        case 'htmlcss':
+          include_once("beg/htmlcss.php");break;
+        case 'htmlcss2':
+          include_once("beg/htmlcss2.php");break;
+        case 'frendcour':
+          include_once("beg/frontend_cours.php");break;
+        case 'htmlcss_course':
+          include_once("beg/frend_htmlcss.php");break;
+        case 'JavaScript_all':
+          include_once("beg/Javascript_all.php");break;
         default:
           include_once("body.php");break;
       }
