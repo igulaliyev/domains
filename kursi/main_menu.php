@@ -1,5 +1,5 @@
 <header class="header">
-  <div class="header_wraper wraper_position">
+  <div class="header_wraper wraper_position flex flexDirCol">
     <div class="info_menu">
       <div class="logo_menu">
         <div class="logo_img"><img src="images/logo.png" alt="wit logo"></div>
@@ -21,11 +21,11 @@
         <ul class="fixed_menu_ul">
           <li><a href="index.php">Главная</a></li>
           <li><a href="index.php?id=virtual_ats">Виртуальный АТС</a></li>
-          <li><a href="index.php?id=virtual_ats">Ip телефония</a></li>
+          <li><a href="index.php?id=voice">Ip телефония</a></li>
           <li class="menu_arrow">Онлайн курсы
             <ul class="menu_online_curs">
-              <li><a href="">FrontEnd</a></li>
-              <li><a href="">BackEnd</a></li>
+              <li><a href="index.php?id=FrontEnd">FrontEnd</a></li>
+              <li><a href="index.php?id=BackEnd">BackEnd</a></li>
               <li><a href="">Детские курсы</a></li>
             </ul>
           </li>

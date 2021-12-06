@@ -1,0 +1,14 @@
+.frontend_wr > div{padding: 2rem 0px}
+  .frontend_header{background-color: #D36C16; color: white; margin: 2rem 0px;}
+    .frontend_header_wr > div{width: 40%; padding: 8rem 0px;}
+    .frontend_header_h1{text-align: center;font-size: 6rem;}
+  .frontend_course{width: 100%;}
+    .frontend_1_html_wr > div{width: 26%;}
+    .frontend_1_html_wr{justify-content: space-around; padding-top: 4rem}
+    .position_frontend{height: 15rem; background-color: #FFF5EC}
+    .frontend_1_html_h1{margin-bottom: 1rem; font-size: 20px; font-weight: bold}
+    .frontend_1_html_b4{padding: 1.3rem 7rem 1.3rem 1.3rem;
+      border: 1px solid #FFA759;
+      width: 10% !important;
+      border-radius: 5%;color:#FE7E0D; font-size: 18px; text-align: center;}
+.frontend_wr a{color: #FE7E0D;}

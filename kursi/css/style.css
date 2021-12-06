@@ -7,6 +7,7 @@ body{
   font-family: Roboto,  sans-serif;
   width: 100%;
   height: 100%;
+  overflow-x: hidden;
 }
 .flex{display: flex;}
 .flexDirCol{flex-direction: column;}
@@ -17,10 +18,7 @@ ul, li{margin: 0px; padding: 0px;}
 a{text-decoration: none;
   color:#2E4053;
 }
-.wraper{
-  display: flex;
-  flex-direction: column;
-  min-height: 50vmax;
+.wraper{min-height: 50vmax;
   overflow: hidden;
   }
   .wraper_position{max-width: 1200px;
@@ -28,10 +26,7 @@ a{text-decoration: none;
     height: 100%
   }
   .header{background-color: #F8F9F9;}
-  .header_wraper{display: flex;
-    flex-direction: column;
-    color: #2E4053;
-  }
+  .header_wraper{color: #2E4053;}
   .logo_img > img{
     max-width: 50px;
     max-height: 50px;
@@ -157,7 +152,7 @@ a{text-decoration: none;
       cursor: pointer;
       border-style: dotted;
     }
-    .benefits, .course_colum, .clock_timer{margin-bottom: 10rem;}
+    .benefits, .course_colum, .clock_timer{margin-bottom: 5rem;}
   .benefits_wraper{
     display: flex;
     flex-wrap: wrap;
@@ -165,17 +160,18 @@ a{text-decoration: none;
     vertical-align: middle;
   }
   .benefits_wraper > div{
-    max-width: 15rem;
+    max-width: 17rem;
     overflow:hidden;
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 20px;
+    margin-left: 3rem;
     overflow: hidden;
   }
   .images_all{
-   width: 10rem;
-   height: 9rem;
+   width: 6rem;
+   height: 5rem;
    background-size:contain;
   }
   .images_effect{background-image: url("../images/effect.png");}
@@ -224,16 +220,13 @@ a{text-decoration: none;
     color:black;
   }
     /*--------------------------timer- end------------------------------------*/
+  .step{margin-bottom: 10rem;}
   .step_wraper > h2{text-align: center;}
-  .step_start{display: flex;
-    flex-direction: row;
-    width: 100%;
+  .step_start{width: 100%;
     height: 100%;
     align-items: center;
   }
-  .step_content{display: flex;
-    flex-direction: column;
-  }
+  .step_content{max-width:50%}
   .step_content > div{
     padding-bottom: 2rem;
   }
@@ -248,10 +241,10 @@ a{text-decoration: none;
     display: inline-block;max-width: 50rem}
   .step_work_money{background-color: #52bdec;
     color:white;text-align: center;
-    padding: 3rem;
+    padding: 2rem;
     border-radius: 20px;
-    max-width: 17rem;
-    font-size: 2.5rem; font-weight: bold;}
+    max-width: 19rem;
+    font-size: 3rem;font-weight: bold;}
   footer{
     color: white;
     display: inline-block;

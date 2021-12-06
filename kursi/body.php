@@ -3,7 +3,7 @@
     <div class="course_content wraper_position">
       <div class="coure_title"><span>Комплексная программа обучения по направлениям</span></div>
       <div class="coure_subject">
-        <div>HTML<span> & </span>CSS</div>
+        <a href="index.php?id=htmlcss_course"><div>HTML<span> & </span>CSS</div></a>
         <div>JavaScript</div>
         <div>NodeJS</div>
         <div>VueJS</div>
@@ -77,8 +77,8 @@
   <div class="step">
     <div class="step_wraper wraper_position">
       <h2>Почему вам стоит стать программистом ?</h2>
-      <div class="step_start">
-        <div class="step_content">
+      <div class="step_start flex flWrap">
+        <div class="step_content flex flexDirCol">
           <div class="step_content_start">
             <div class="check_content_img"></div>
             <div class="step_content_start_wraper">
@@ -109,7 +109,7 @@
           </div>
         </div>
         <div class="step_work_money">
-          <h2>1 500$</h2>
+          <h2>2 000$</h2>
           <span>Средняя зарплата Front End разработчика</span>
         </div>
       </div>

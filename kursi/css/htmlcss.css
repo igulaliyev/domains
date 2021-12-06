@@ -1,0 +1,30 @@
+.htmlcss_headerWr_all{width: 100%;color: white;padding: 5rem 0px;justify-content: space-around;}
+.htmlcss_header_wraper{background-color: green;
+  background: linear-gradient(90deg, rgba(14,121,125,1) 0%, rgba(65,115,119,1) 35%, rgba(45,124,97,1) 100%);
+  }
+  .htmlcss_header{align-items: center;}
+  .htmlcss_header > div{width: 45%;}
+  .htmlcss_header_discription{margin-bottom: 2rem;}
+  .htmlcss_header_name{font-size: 3rem; font-weight: bold; text-align: center;font-family:unicons-line}
+  .htmlcss_Img_color{color:yellow; font-size: 10rem}
+  .htmlcss_headehtml_img::before{content: "\ec8b";}
+  .htmlcss_headecss_img::before{content: "\ec30";}
+  .htmlcss_headerPr_all{padding:3rem 0px;text-align: center;justify-content: center; width: 100%;}
+  .htmlcss_header_price{border: 1px solid yellow;}
+  .htmlcss_header_price > div{width: 30%}
+  .htmlcss_header_price_1 > span:first-child{font-weight: bold;letter-spacing: 0.2rem}
+.htmlcss_start{background-color: #A4F5D5; padding-bottom: 3rem;background: linear-gradient(90deg, rgba(243,250,227,1) 0%, rgba(239,246,246,0.9108018207282913) 50%, rgba(252,250,234,1) 100%);}
+.htmlcss_h1{text-align: center;margin: 5rem; font-weight: bold;font-size: 20px}
+.htmlcss_body_details  summary{margin: 1rem 0px 20px -30px;
+  cursor: pointer;
+  padding: 1rem;
+  border-bottom: 1px solid silver; font-size: 1.5rem}
+.htmlcss_body_details div{margin-bottom: 2rem;}
+.htmlcss_body_details div::before{font-family:unicons-line; content: "\eb41 "; color: silver;}
+.htmlcss_content > div{width: 20%}
+.htmlcss_content{justify-content: space-around;}
+  .htmlcss_start_b1_img{text-align: center;margin-bottom: 2rem}
+  .htmlcss_start_b1_h1{text-align: center;font-weight: bold; font-size: 1.2rem; margin-bottom: 1rem}
+.htmlcss_study{justify-content: space-around;width: 100%}
+.htmlcss_study > span{width: 35%; margin-bottom: 3rem}
+.htmlcss_study > span::before{font-family:unicons-line;content: "\e859"; color: green}
