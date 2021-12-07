@@ -62,7 +62,7 @@
   color:#7A7A7A;
   margin-bottom: 2rem;
 }
-.image_size{max-width: 40px; max-height: 40px;}
+.viats__image_size{width: 40px; height: 40px;}
 .viats_help_img_s1{background-image: url("../images/optimiz.png");}
  .viats_help_img_s2{background-image: url("../images/econom1.png");}
  .viats_help_img_s3{background-image: url("../images/econom_opt.png");}

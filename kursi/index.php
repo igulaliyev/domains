@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="css/body.css">
   <link rel="stylesheet" href="css/footer.css">
   <link rel="stylesheet" href="css/virtual_ats.css">
+  <link rel="stylesheet" href="css/course_position.css">
   <link rel="stylesheet" href="css/voice.css">
   <link rel="stylesheet" href="css/media.css">
   <link rel="stylesheet" href="css/frontend.css">

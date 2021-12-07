@@ -30,7 +30,7 @@
         <div class="box_position flex flWrap">
           <div class="viats_help_img_s1_border viats_help_img_border">
             <div class="viats_help_img_s1_border2 viats_help_img_border2_all">
-              <div class="viats_help_img_s1 body__images_all image_size"></div>
+              <div class="viats_help_img_s1 body__images_all viats__image_size"></div>
             </div>
           </div>
           <div class="viats_help_content_s1_h1">Автоматизация и  обработка звонков</div>
@@ -40,7 +40,7 @@
         <div class="box_position flex flWrap">
           <div class="viats_help_img_s2_border viats_help_img_border">
             <div class="viats_help_img_s2_border2 viats_help_img_border2_all">
-              <div class="viats_help_img_s2 body__images_all image_size"></div>
+              <div class="viats_help_img_s2 body__images_all viats__image_size"></div>
             </div>
           </div>
           <div class="viats_help_content_s1_h1">Экономия денег</div>
@@ -50,7 +50,7 @@
         <div class="box_position flex flWrap">
           <div class="viats_help_img_s3_border viats_help_img_border">
             <div class="viats_help_img_s3_border2 viats_help_img_border2_all">
-              <div class="viats_help_img_s3 body__images_all image_size"></div>
+              <div class="viats_help_img_s3 body__images_all viats__image_size"></div>
             </div>
           </div>
           <div class="viats_help_content_s1_h1">CRM система </div>
@@ -123,7 +123,7 @@
     </div>
   </div>
   <div class="viats_tarif">
-    <div class="wraper__position">
+    <div class="">
       <div class="viats_tarif_info">Тарифы и цены</div>
       <div class="viats_tarifWr flex flWrap">
         <div class="t1 box_position flex flexDirCol">

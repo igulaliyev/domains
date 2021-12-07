@@ -1,26 +1,26 @@
 <div class="htmlcss">
-  <div class="htmlcss_wraper flex flexDirCol">
-    <div class="htmlcss_header_wraper2 htmlcss_headerWr_all course_header_pozi">
-      <div class="htmlcss_header wraper__position flex flWrap">
-        <div class="htmlcss_header_name">
-          <span class="htmlcss_headehtml_img htmlcss_headehtml_img2"></span>
-          <span class="htmlcss_headecss_img htmlcss_headehtml_img2"></span><br />
+  <div class="flex flexDirCol">
+    <div class="htmlcss__header_wraper2 htmlcss__header_backg courseAll__header_position">
+      <div class="courseAll__header wraper__position flex flWrap">
+        <div class="courseAll__header_name">
+          <span class="htmlcss__headehtml_img htmlcss__Img_color2"></span>
+          <span class="htmlcss__headecss_img htmlcss__Img_color2"></span><br />
           <span>HTML</span>&nbsp;&nbsp;&nbsp;&nbsp;<span>CSS</span>
         </div>
         <div class="flex flWrap ">
-          <div class="htmlcss_header_discription">
+          <div class="courseAll__header_discription">
             Не имеет значения, на кого вы сейчас работаете и сколько вам лет. Вы можете искать учебные курсы с нуля или уже имеете небольшой багаж знаний о HTML/CSS за спиной. Можно бесконечно слушать вебинары, проводимые бесплатно и не давать желаемых результатов. Этот курс для вас,
           </div>
-          <div class="htmlcss_header_price2 htmlcss_headerPr_all flex flWrap">
-            <div class="htmlcss_header_price_1">
+          <div class="htmlcss__header_price2 courseAll__header_price courseALL__headerPrace flex flWrap">
+            <div class="courseAll__header_price_">
               <span>20 уроков</span><br /><br />
               <span>2 -3 раза в неделю</span>
             </div>
-            <div class="htmlcss_header_price_1">
+            <div class="courseAll__header_price_">
               <span>Цена курса</span><br /><br />
               <span>250 AZN</span>
             </div>
-            <div class="htmlcss_header_price_1">
+            <div class="courseAll__header_price_">
               <span></span>
               <span>1 -й урок бесплатный</span><br /><br />
               <span>Оплата по частям</span>
@@ -30,8 +30,8 @@
       </div>
     </div>
     <div class="htmlcss_body wraper__position flex flexDirCol">
-      <div class="htmlcss_h1">Программа курса</div>
-      <details class="htmlcss_body_details">
+      <div class="courseAll__start_h1">Программа курса</div>
+      <details class="courseAll__body_details">
         <summary>HTML & CSS </summary>
         <div> &nbsp;&nbsp;Пустые и закрывающие теги.</div>
         <div> &nbsp;&nbsp;Устаревшие атрибуты.</div>
@@ -44,7 +44,7 @@
         <div> &nbsp;&nbsp;Специальные символы</div>
         <div> &nbsp;&nbsp;Лабораторная  работа 1</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>CSS</summary>
         <div>&nbsp;&nbsp;Селекторы</div>
         <div>&nbsp;&nbsp;Псевдоклассы</div>
@@ -70,7 +70,7 @@
         <div> &nbsp;&nbsp;Box-sizing</div>
         <div> &nbsp;&nbsp;Лабораторная  работа 5</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>@ - правила</summary>
         <div>&nbsp;&nbsp;Что такое media</div>
         <div>&nbsp;&nbsp;Виды разрешений экранов</div>
@@ -79,7 +79,7 @@
         <div>&nbsp;&nbsp;Media типы</div>
         <div> &nbsp;&nbsp;Лабораторная  работа 1</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>Flex box</summary>
         <div>&nbsp;&nbsp;Оси</div>
         <div>&nbsp;&nbsp;Flex контейнер</div>
@@ -95,14 +95,14 @@
         <div> &nbsp;&nbsp;Flex-basis</div>
         <div> &nbsp;&nbsp;Лабораторная  работа 1</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>3D изображения</summary>
         <div>&nbsp;&nbsp;transition</div>
         <div>&nbsp;&nbsp;transform</div>
         <div>&nbsp;&nbsp;Paralax</div>
         <div> &nbsp;&nbsp;Лабораторная  работа 1</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>Градиенты</summary>
         <div>&nbsp;&nbsp;Линейные</div>
         <div>&nbsp;&nbsp;Диогональные</div>
@@ -118,7 +118,7 @@
         <div>&nbsp;&nbsp;Множественные повторяющиеся круговые градиенты</div>
         <div> &nbsp;&nbsp;Лабораторная  работа 1</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>Grid layout</summary>
         <div>&nbsp;&nbsp;Grid контейнер</div>
         <div>&nbsp;&nbsp;Grid Tracks</div>
@@ -144,7 +144,7 @@
         <div>&nbsp;&nbsp;Грид и display: contents</div>
         <div> &nbsp;&nbsp;Лабораторная  работа 1</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>Анимация @Keyframe</summary>
         <div>&nbsp;&nbsp;Введение</div>
         <div>&nbsp;&nbsp;animation-name</div>
@@ -165,15 +165,15 @@
         <div>&nbsp;&nbsp;Регистрация событий</div>
         <div> &nbsp;&nbsp;Лабораторная  работа 1</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>WEB API</summary>
         <div>&nbsp;&nbsp;Введение</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>Безопастность WEB</summary>
         <div>&nbsp;&nbsp;Введение</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>GitHUB</summary>
         <div>&nbsp;&nbsp;Введение</div>
         <div>&nbsp;&nbsp;Основы установка и настройка </div>
@@ -196,61 +196,61 @@
         <div> &nbsp;&nbsp;Отмена коммитов через revert</div>
         <div> &nbsp;&nbsp;status</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>Bootstrap5</summary>
         <div>&nbsp;&nbsp;Введение</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>Photoshop</summary>
         <div>&nbsp;&nbsp;Введение</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>SVG</summary>
         <div>&nbsp;&nbsp;Введение</div>
       </details>
-      <details class="htmlcss_body_details">
+      <details class="courseAll__body_details">
         <summary>Дополнительно</summary>
         <div>&nbsp;&nbsp;Введение</div>
       </details>
     </div>
-    <div class="htmlcss_start2 ">
+    <div class="htmlcss__start2 ">
       <div class="wraper__position flex flexDirCol">
-        <div class="htmlcss_h1">
+        <div class="courseAll__start_h1">
           Этапы обучения
         </div>
-        <div class="htmlcss_content flex flWrap">
+        <div class="courseAll__content flex flWrap flJusContSpacAround">
           <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="htmlcss_start_b1_img">
+            <div class="courseAll__start_b1_img">
               <img src="images/design.png" alt="Вебинар html css">
             </div>
-            <div class="htmlcss_start_b1_h1">Вебинар</div>
+            <div class="courseAll__start_b1_h1">Вебинар</div>
             <div class="htmlcss_start_b1_txt">
               Студенты присоединяются к прямой трансляции занятия. Наши онлайн-курсы HTML & CSS предоставляют уроки, которые остаются в записи даже после завершения курса.
             </div>
           </div>
           <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="htmlcss_start_b1_img">
+            <div class="courseAll__start_b1_img">
               <img src="images/desk-lamp.png" alt="домашнее задание html css">
             </div>
-            <div class="htmlcss_start_b1_h1">Домашнее задание</div>
+            <div class="courseAll__start_b1_h1">Домашнее задание</div>
             <div class="htmlcss_start_b1_txt">
               Все задания основаны на теме, которую студенты ранее прошли на вебинаре. Домашнее задание помогает закрепить материал и лучше понять, как создается сайт.
             </div>
           </div>
           <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="htmlcss_start_b1_img">
+            <div class="courseAll__start_b1_img">
               <img src="images/email.png" alt="фотка 3">
             </div>
-            <div class="htmlcss_start_b1_h1">Работа с наставником</div>
+            <div class="courseAll__start_b1_h1">Работа с наставником</div>
             <div class="htmlcss_start_b1_txt">
               Наставник в контакте с группой как в учебное, так и во внеучельное время. Это помогает решать возникающие проблемы и делает изучение нового материала легким и понятным.
             </div>
           </div>
           <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="htmlcss_start_b1_img">
+            <div class="courseAll__start_b1_img">
               <img src="images/ui.png" alt="фотка 4">
             </div>
-            <div class="htmlcss_start_b1_h1">Курсовой проект</div>
+            <div class="courseAll__start_b1_h1">Курсовой проект</div>
             <div class="htmlcss_start_b1_txt">
               В конце каждого курса студенты готовят собственный проект, который впоследствии может быть включен в их портфолио.
             </div>
@@ -258,11 +258,11 @@
         </div>
       </div>
     </div>
-    <div class="htmlcss_study wraper__position flex flexDirCol">
-      <div class="htmlcss_h1">
+    <div class="courseAll__study wraper__position flex flexDirCol flJusContSpacAround">
+      <div class="courseAll__start_h1">
         Чему научитесь ?
       </div>
-      <div class="htmlcss_study flex flWrap">
+      <div class="courseAll__study flex flWrap flJusContSpacAround">
         <span> Принцепы верстки и написания стилей</span>
         <span> Умение работать с элементами HTML</span>
         <span> Умение разбиратся в чужом коде</span>

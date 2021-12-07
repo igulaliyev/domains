@@ -1,0 +1,68 @@
+.courseAll__header_position{
+  width: 100%;
+  color: white;
+  padding: 5rem 0px;
+  justify-content: space-around;
+}
+.courseAll__header > div{width: 45%;}
+.courseAll__header_name{
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  font-family:unicons-line;
+}
+.courseAll__header_discription{margin-bottom: 2rem;}
+.courseALL__headerPrace{
+  padding:3rem 0px;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+}
+.courseAll__header_price > div{
+  width: 30%
+}
+.courseAll__header_price_ > span:first-child{
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+}
+
+.courseAll__start_h1{
+  text-align: center;
+  margin: 5rem;
+  font-weight: bold;
+  font-size: 20px;
+}
+.courseAll__body_details  summary{
+  margin: 1rem 0px 20px -30px;
+  cursor: pointer;
+  padding: 1rem;
+  border-bottom: 1px solid silver;
+  font-size: 1.5rem;
+}
+.courseAll__body_details div{margin-bottom: 2rem;}
+.courseAll__body_details div::before{
+  font-family:unicons-line;
+  content: "\eb41 ";
+  color: silver;
+}
+.courseAll__content > div{width: 20%}
+.courseAll__start_b1_img{
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.courseAll__start_b1_h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+.courseAll__study{width: 100%}
+.courseAll__study > span{
+  width: 35%;
+  margin-bottom: 3rem;
+}
+.courseAll__study > span::before{
+  font-family:unicons-line;
+  content: "\e859";
+  color: green;
+}
