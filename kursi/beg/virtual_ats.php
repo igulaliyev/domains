@@ -1,22 +1,28 @@
-<div class="viats_body flex flexDirCol">
-  <div class="viats_head">
-    <div class="voice_wraper_position wraper_position flex">
+<div class="viats__body flex flexDirCol">
+  <div class="viats__head">
+    <div class="viats__wraper__position wraper__position flex">
       <div class="flexDirCol flex">
-        <h1>Виртуальный АТС</h1>
         <div class="viats_header_body_text">
-          Улучшайте качество услуг в вашей компании с помощью умной телефонии. Виртуальная АТС - это сервис, который объединяет все номера компании в единую сеть, сохраняет всю историю и записи разговоров с клиентами. Кроме того, она автоматизирует работу и повышает эффективность сотрудников и качество обслуживания клиентов.
+          Улучшайте качество услуг в вашей компании с помощью умной телефонии
+          <br /><br />Виртуальная АТС автоматизирует работу и повышает эффективность сотрудников и качество обслуживания клиентов
         </div>
         <div class="viats_head_enumeration_wrap flex">
-          <div class="viats_head_free_test"><span>Для офиса</span></div>
-          <div class="viats_head_free_test"><span>Call - center</span></div>
-          <div class="viats_head_free_test"><span>Для удаленной работы</span></div>
+          <div class="viats__header_mnogouq">
+            <div class="viats_head_free_test"><span>Для офиса</span></div>
+          </div>
+          <div class="viats__header_mnogouq">
+            <div class="viats_head_free_test"><span>Call - center</span></div>
+          </div>
+          <div class="viats__header_mnogouq">
+            <div class="viats_head_free_test"><span>Для удаленной работы</span></div>
+          </div>
         </div>
       </div>
-      <div class="viats_header_img images_all"></div>
+      <div class="viats_header_img body__images_all"></div>
     </div>
   </div>
   <div class="viats_help_buss">
-    <div class="wraper_position viats_help_buss_wraper">
+    <div class="wraper__position viats_help_buss_wraper">
       <div class="viats_help_h1">
        Как услуга поможет бизнесу ?
       </div>
@@ -24,7 +30,7 @@
         <div class="box_position flex flWrap">
           <div class="viats_help_img_s1_border viats_help_img_border">
             <div class="viats_help_img_s1_border2 viats_help_img_border2_all">
-              <div class="viats_help_img_s1 images_all image_size"></div>
+              <div class="viats_help_img_s1 body__images_all image_size"></div>
             </div>
           </div>
           <div class="viats_help_content_s1_h1">Автоматизация и  обработка звонков</div>
@@ -34,7 +40,7 @@
         <div class="box_position flex flWrap">
           <div class="viats_help_img_s2_border viats_help_img_border">
             <div class="viats_help_img_s2_border2 viats_help_img_border2_all">
-              <div class="viats_help_img_s2 images_all image_size"></div>
+              <div class="viats_help_img_s2 body__images_all image_size"></div>
             </div>
           </div>
           <div class="viats_help_content_s1_h1">Экономия денег</div>
@@ -44,7 +50,7 @@
         <div class="box_position flex flWrap">
           <div class="viats_help_img_s3_border viats_help_img_border">
             <div class="viats_help_img_s3_border2 viats_help_img_border2_all">
-              <div class="viats_help_img_s3 images_all image_size"></div>
+              <div class="viats_help_img_s3 body__images_all image_size"></div>
             </div>
           </div>
           <div class="viats_help_content_s1_h1">CRM система </div>
@@ -56,7 +62,7 @@
     </div>
   </div>
   <div class="viats_possibilities">
-    <div class="wraper_position">
+    <div class="wraper__position">
       <div class="viats_possibilities_contentWraper flex">
         <div class="viats_possibilities_content_head">
           <div class="viats_possibilities_content_head_h1">Возможности виртуальной АТС</div>
@@ -67,7 +73,7 @@
           <div class="viats_possibilities_content_border">
             <div class="viats_possibilities_content_borderColor">
               <div class="viats_possibilities_content_body_t1">
-                <div class="check_content_img"></div>
+                <div class="check__content_img"></div>
                 <span>Объединить все номера компании в единую сеть</span>
               </div>
             </div>
@@ -75,7 +81,7 @@
           <div class="viats_possibilities_content_border">
             <div class="viats_possibilities_content_borderColor">
               <div class="viats_possibilities_content_body_t2">
-                <div class="check_content_img"></div>
+                <div class="check__content_img"></div>
                 <span>Хранить записи разговоров с клиентами</span>
               </div>
             </div>
@@ -83,7 +89,7 @@
           <div class="viats_possibilities_content_border">
             <div class="viats_possibilities_content_borderColor">
               <div class="viats_possibilities_content_body_t3">
-                <div class="check_content_img"></div>
+                <div class="check__content_img"></div>
                 <span>Автоматически распределять звонки</span>
               </div>
             </div>
@@ -91,7 +97,7 @@
           <div class="viats_possibilities_content_border">
             <div class="viats_possibilities_content_borderColor">
               <div class="viats_possibilities_content_body_t4">
-                <div class="check_content_img"></div>
+                <div class="check__content_img"></div>
                 <span>Собирать статистику всех звонков </span>
               </div>
             </div>
@@ -99,7 +105,7 @@
           <div class="viats_possibilities_content_border">
             <div class="viats_possibilities_content_borderColor">
               <div class="viats_possibilities_content_body_t5">
-                <div class="check_content_img"></div>
+                <div class="check__content_img"></div>
                 <span>Повысить эффективность сотрудников</span>
               </div>
             </div>
@@ -107,7 +113,7 @@
           <div class="viats_possibilities_content_border">
             <div class="viats_possibilities_content_borderColor">
               <div class="viats_possibilities_content_body_t6">
-                <div class="check_content_img"></div>
+                <div class="check__content_img"></div>
                 <span>Автоматизировать работу со звонками</span>
               </div>
             </div>
@@ -117,7 +123,7 @@
     </div>
   </div>
   <div class="viats_tarif">
-    <div class="wraper_position">
+    <div class="wraper__position">
       <div class="viats_tarif_info">Тарифы и цены</div>
       <div class="viats_tarifWr flex flWrap">
         <div class="t1 box_position flex flexDirCol">
@@ -352,7 +358,7 @@
     </div>
   </div>
   <div class="viats_calc_price">
-    <div class="wraper_position">
+    <div class="wraper__position">
       <div class="viats_calc_h1_mother">При оплате на один месяц</div>
       <div class="viats_calcWr flex flWrap">
         <div class="viats_calc_left">
@@ -434,7 +440,7 @@
     </div>
   </div>
   <div class="viats_step_connect">
-    <div class="wraper_position">
+    <div class="wraper__position">
       <div class="viats_step_connectWr">
         <div class="viats_step_connectHead">Как происходит подключение ?</div>
         <div class="viats_step_connectBody box_position flex flWrap">

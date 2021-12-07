@@ -1,13 +1,13 @@
 <div class="frontend__ flex flexDirCol">
   <div class="frontend_header_1 course_header_pozi">
-    <div class="frontend__header_wr wraper_position flex flWrap">
+    <div class="frontend__header_wr wraper__position flex flWrap">
       <div class="frontend__header_h1">Front End</div>
       <div class="frontend__header_txt">
         Front end development – це створення тієї частини веб-додатків і сайтів, яку бачить користувач. Для початку дизайн-макет переноситься в веб із використанням HTML і CSS. Потім сайт “оживляють” за допомогою інтерактивних елементів і ефектів: галерей, поп-апів, форм, лічильників, анімацій та багато чого іншого.
       </div>
     </div>
   </div>
-  <div class="frontend__course flex flexDirCol wraper_position frontend_course_1">
+  <div class="frontend__course flex flexDirCol wraper__position frontend_course_1">
     <div class="frontend_1_html box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">

@@ -1,7 +1,7 @@
 <div class="htmlcss">
   <div class="htmlcss_wraper flex flexDirCol">
     <div class="htmlcss_header_wraper2 htmlcss_headerWr_all course_header_pozi">
-      <div class="htmlcss_header wraper_position flex flWrap">
+      <div class="htmlcss_header wraper__position flex flWrap">
         <div class="htmlcss_header_name">
           <span class="htmlcss_headehtml_img htmlcss_headehtml_img2"></span>
           <span class="htmlcss_headecss_img htmlcss_headehtml_img2"></span><br />
@@ -29,7 +29,7 @@
         </div>
       </div>
     </div>
-    <div class="htmlcss_body wraper_position flex flexDirCol">
+    <div class="htmlcss_body wraper__position flex flexDirCol">
       <div class="htmlcss_h1">Программа курса</div>
       <details class="htmlcss_body_details">
         <summary>HTML & CSS </summary>
@@ -214,7 +214,7 @@
       </details>
     </div>
     <div class="htmlcss_start2 ">
-      <div class="wraper_position flex flexDirCol">
+      <div class="wraper__position flex flexDirCol">
         <div class="htmlcss_h1">
           Этапы обучения
         </div>
@@ -258,7 +258,7 @@
         </div>
       </div>
     </div>
-    <div class="htmlcss_study wraper_position flex flexDirCol">
+    <div class="htmlcss_study wraper__position flex flexDirCol">
       <div class="htmlcss_h1">
         Чему научитесь ?
       </div>

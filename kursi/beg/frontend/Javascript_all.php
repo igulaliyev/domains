@@ -1,6 +1,6 @@
 <div class="frontend__ flex flexDirCol">
   <div class="frontend_header_js frontend__header">
-    <div class="frontend__header_wr wraper_position flex flWrap">
+    <div class="frontend__header_wr wraper__position flex flWrap">
       <div class="frontend__header_h1">Front End</div>
       <div class="frontend_header_jsall">Front-end - это та часть программного обеспечения с которой непосредственно контактирует пользователь. Например в веб-разработке в качестве Front-end выступают: HTML-верстка. • Стили CSS.• JavaScript.
      Именно эти технологии создают картинку для пользователя и с ними он контактирует непосредственно выполняя те или иные действия на сайте.
@@ -8,7 +8,7 @@
       </div>
     </div>
   </div>
-  <div class="frontend__course flex flexDirCol wraper_position">
+  <div class="frontend__course flex flexDirCol wraper__position">
     <div class="frontend__possition box_position  frontend__possition_backgJsall">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">

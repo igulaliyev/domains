@@ -1,0 +1,80 @@
+.mainMenu__header{background-color: #F8F9F9;}
+.mainMenu__header a{color:#2E4053}
+.mainMenu__header_wraper{color: #2E4053;}
+.mainMenu__logo_img > img{
+  max-width: 50px;
+  max-height: 50px;
+}
+.mainMenu__language{margin-left: 50px;}
+.mainMenu__language span{
+  padding: 5px;
+  border-radius: 3px;
+}
+.mainMenu__language span:hover{
+  background-color: #CEF6FC;
+  color:inherit;
+  transition: 1s
+}
+.contact__ div{margin-right: 10px;}
+.contact__phone::before{content:"\1F57B";
+  transform:rotate(-30deg);
+  position: absolute;
+  margin:-5px 0px 0px -25px;
+  font-size: 20px;
+}
+.contact__back_call{padding: 10px; border-radius: 10px}
+.contact__back_call:hover{
+  background-color: #CACFD2;
+  color:inherit;
+  cursor: pointer;
+  transition: 1s;
+}
+.fixed__menu{padding-bottom: 1rem;}
+.fixed__menu ul li{
+  list-style: none;
+  font-weight: bold;
+}
+.fixed__menu_ul{display: flex;
+  flex-wrap: wrap;
+  background-color:#F8FEFF;
+  color:inherit;
+  align-items: flex-start;
+}
+.fixed__menu_ul li:nth-child(1){margin-left: 0px;}
+.fixed__menu_ul li{margin-left: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.fixed__menu_ul li:hover{background-color: #E9FCFF;;
+  color:inherit;
+  transition: 1s;
+}
+.fixed__menu_arrow:hover::after, .fixed__menu_service:hover::after{
+  transform:rotate(90deg);
+  transition: 1s
+}
+.fixed__menu_arrow::after, .fixed__menu_service::after{
+  content: "\2039";
+  transform:rotate(-90deg);
+  position: absolute;
+  margin-left: 1rem;
+  transition: 1s;
+}
+.fixed__menu_arrow:hover .fixed__menu_online_curs, .fixed__menu_service:hover .fixed__menu_service_ul{
+  opacity: 1;
+  transition: 1s;
+}
+.fixed__menu_online_curs li:hover, .fixed__menu_service li:hover{
+  background-color:#CEF6FC;
+  color: inherit;
+}
+.fixed__menu_online_curs{width: 130px;margin-left: -15px;}
+.fixed__menu_online_curs, .fixed__menu_service_ul{position:absolute;
+  background-color: #EFFDFF;
+  opacity: 0;
+  padding-top: 5px;
+  color: inherit;
+}
+.fixed__menu_online_curs li, .fixed__menu_service_ul li{margin: 0px;}
+.fixed__menu_service_ul{width: 200px; margin-left: -15px;}
