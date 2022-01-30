@@ -50,7 +50,7 @@
       </div>
     </div>
   </div>
-  <div class="voice_work wraper_position">
+  <div class="voice_work wraper__position">
     <div class="voice_work_wraper flex flexDirCol">
       <div class="voice_work_h1">Главные преимущества IP-телефонии</div>
       <div class="voice_work_body flex flWrap">
@@ -65,7 +65,7 @@
       </div>
     </div>
   </div>
-  <div class="voice_advantage_ wraper_position">
+  <div class="voice_advantage_ wraper__position">
     <div class="voice_advantage_wraper_ flex flexDirCol">
       <div class="voice_advantage_h1">Принцип работы</div>
       <div class="voice_advantage_body flex flWrap">
@@ -93,7 +93,7 @@
       </div>
     </div>
   </div>
-  <div class="voice_crm wraper_position">
+  <div class="voice_crm wraper__position">
     <div class="voice_crm_wr flex flexDirCol">
       <div class="voice_crm_h1">Зачем и кому будет полезна CRM - система</div>
       <div class="voice_crm_body flex flWrap">

@@ -1,6 +1,6 @@
 .courseAll__header_position{
   width: 100%;
-  color: white;
+  color: var(--colorWhite);
   padding: 5rem 0px;
   justify-content: space-around;
 }
@@ -50,6 +50,30 @@
   text-align: center;
   margin-bottom: 2rem;
 }
+.courseAll_start_b1{
+  background-color: rgb(247,247,253);
+  padding: 2rem;
+  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
+}
+.courseAll__footer{
+  background-color: rgb(124,162,223);
+  padding: 0.5rem;
+  width: 3rem;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  margin:-30px 0px 0px 35%;
+  color: var(--colorWhite);
+  font-size: 2rem;
+  font-weight: bold;
+  -webkit-box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.7);
+  box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.7);
+}
+.courseAll__start_body{margin-bottom: 2rem;}
+.courseAll__start_b1_img > img{width: 64px; height: 64px;}
 .courseAll__start_b1_h1{
   text-align: center;
   font-weight: bold;

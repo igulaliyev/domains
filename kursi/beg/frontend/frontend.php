@@ -13,7 +13,7 @@
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">Полный курс Front End</div>
-          <div class="frontend_1_html_txt">Изучение Разметки и стилей</div>
+          <div class="frontend_1_html_txt">Полный курс</div>
         </div>
         <div class="frontend_1_html_b2">
           <div class="frontend_1_html_h1">Продолжительность курса</div>
@@ -74,7 +74,7 @@
           <div class="frontend_1_html_h1">Длительность урока</div>
           <div class="frontend_1_html_txt">2 часа</div>
         </div>
-        <a href="#"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
+        <a href="index.php?id=js1"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
     <div class="frontend__possition box_position frontend__possition_backg">
@@ -91,7 +91,7 @@
           <div class="frontend_1_html_h1">Длительность урока</div>
           <div class="frontend_1_html_txt">2 часа</div>
         </div>
-        <a href="#"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
+        <a href="index.php?id=js2"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
     <div class="frontend__possition box_position frontend__possition_backg">
@@ -108,41 +108,41 @@
           <div class="frontend_1_html_h1">Длительность урока</div>
           <div class="frontend_1_html_txt">2 часа</div>
         </div>
-        <a href="#"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
+        <a href="index.php?id=js3"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
     <div class="frontend__possition box_position frontend__possition_backg">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">JQuery</div>
-          <div class="frontend_1_html_txt">Изучение Разметки и стилей</div>
+          <div class="frontend_1_html_txt">Библиотека JavaScript</div>
         </div>
         <div class="frontend_1_html_b2">
           <div class="frontend_1_html_h1">Продолжительность курса</div>
-          <div class="frontend_1_html_txt">20 уроков</div>
+          <div class="frontend_1_html_txt">8 уроков</div>
         </div>
         <div class="frontend_1_html_b3">
           <div class="frontend_1_html_h1">Длительность урока</div>
-          <div class="frontend_1_html_txt">2 часа</div>
+          <div class="frontend_1_html_txt">90 минут</div>
         </div>
-        <a href="#"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
+        <a href="index.php?id=jquery"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
     <div class="frontend__possition box_position frontend__possition_backg">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">AJax</div>
-          <div class="frontend_1_html_txt">Изучение Разметки и стилей</div>
+          <div class="frontend_1_html_txt">Обмен между клиентом и сервером</div>
         </div>
         <div class="frontend_1_html_b2">
           <div class="frontend_1_html_h1">Продолжительность курса</div>
-          <div class="frontend_1_html_txt">20 уроков</div>
+          <div class="frontend_1_html_txt">6 уроков</div>
         </div>
         <div class="frontend_1_html_b3">
           <div class="frontend_1_html_h1">Длительность урока</div>
-          <div class="frontend_1_html_txt">2 часа</div>
+          <div class="frontend_1_html_txt">90 минут</div>
         </div>
-        <a href="#"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
+        <a href="index.php?id=ajax"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
     <div class="frontend__possition box_position frontend__possition_backg">

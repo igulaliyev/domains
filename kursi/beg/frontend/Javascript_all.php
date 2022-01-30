@@ -23,7 +23,7 @@
           <div class="frontend_1_html_h1">Длительность урока</div>
           <div class="frontend_1_html_txt">100 минут</div>
         </div>
-        <a href="index.php?id=htmlcss"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
+        <a href="index.php?id=js1"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
     <div class="frontend__possition box_position  frontend__possition_backgJsall">
@@ -40,7 +40,7 @@
           <div class="frontend_1_html_h1">Длительность урока</div>
           <div class="frontend_1_html_txt">100 минут</div>
         </div>
-        <a href="index.php?id=htmlcss2"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
+        <a href="index.php?id=js2"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
     <div class="frontend__possition box_position frontend__possition_backgJsall">
@@ -57,7 +57,7 @@
           <div class="frontend_1_html_h1">Длительность урока</div>
           <div class="frontend_1_html_txt">100 минут</div>
         </div>
-        <a href="index.php?id=htmlcss2"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
+        <a href="index.php?id=js3"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
   </div>

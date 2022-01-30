@@ -25,6 +25,12 @@
   <link rel="stylesheet" href="css/htmlcss2.css">
   <link rel="stylesheet" href="css/line.css">
   <link rel="stylesheet" href="css/javascript_all.css">
+  <link rel="stylesheet" href="css/js1.css">
+  <link rel="stylesheet" href="css/js2.css">
+  <link rel="stylesheet" href="css/js3.css">
+  <link rel="stylesheet" href="css/ajax.css">
+  <link rel="stylesheet" href="css/jQuery.css">
+  <link rel="stylesheet" href="css/contakt.css">
   <link rel="shortcut icon" href="images/logo_ico.png">
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
   <script type="text/javascript" >
@@ -64,6 +70,20 @@
           include_once("beg/frontend/frend_htmlcss.php");break;
         case 'JavaScript_all':
           include_once("beg/frontend/Javascript_all.php");break;
+        case 'js1':
+          include_once("beg/frontend/js1.php");break;
+        case 'js2':
+          include_once("beg/frontend/js2.php");break;
+        case 'js3':
+          include_once("beg/frontend/js3.php");break;
+        case 'jquery':
+          include_once("beg/frontend/jquery.php");break;
+        case 'ajax':
+          include_once("beg/frontend/ajax.php");break;
+        case 'nodeJS':
+          include_once("beg/frontend/nodeJS.php");break;
+        case 'contact':
+          include_once("beg/contakt.php");break;
         default:
           include_once("body.php");break;
       }

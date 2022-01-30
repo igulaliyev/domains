@@ -1,0 +1,23 @@
+.contakt__header{background-image: url("../images/contact.jpg");
+  box-shadow:0 0 0 408px rgba(255, 255, 255, 0.30) inset;
+  width: 100%;
+  min-height: 550px;
+  background-position: bottom;
+}
+.buttonWr__{width: 70%; align-items: center;}
+.contakt__main{background-color: rgb(33,32,34); color:white;}
+.contakt__wrap_{text-align: center; font-size: 1.5rem;}
+.contakt__wr_inp input{text-align: center;
+  font-size: 2rem;
+  margin-top: 2rem;
+  padding: 1rem;
+  width: 30rem;
+}
+.contakt__wr_inp input[type='submit']{width: 32rem;
+  background: rgb(97,183,212);
+  background: linear-gradient(185deg, rgba(138,215,241,1) 0%, rgba(53,127,222,1) 100%);
+  border: 0px;
+  box-shadow: rgb(97,183,112);
+  color: white;
+  cursor: pointer;
+}

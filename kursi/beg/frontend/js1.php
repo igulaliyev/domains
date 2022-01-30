@@ -1,22 +1,23 @@
 <div class="JavaScript">
   <div class="flex flexDirCol">
-    <div class="ajax__header_backg courseAll__header_position">
+    <div class="JS__header_backg courseAll__header_position">
       <div class="courseAll__header wraper__position flex flWrap algItemCenter">
         <div class="courseAll__header_name">
-          <span>AJax</span><br />
+          <span>JavaScript</span><br />
+          <span>базовый</span>
         </div>
         <div class="flex flWrap ">
           <div class="courseAll__header_discription">
-            AJax ---------------------------
+            Javascript ---------------------------
           </div>
           <div class="htmlcss__header_pricebor courseAll__header_price courseALL__headerPrace flex flWrap">
             <div class="courseAll__header_price_">
-              <span>6 уроков</span><br /><br />
+              <span>16 уроков</span><br /><br />
               <span>2 -3 раза в неделю</span>
             </div>
             <div class="courseAll__header_price_">
               <span>Цена курса</span><br /><br />
-              <span>120 AZN</span>
+              <span>200 AZN</span>
             </div>
             <div class="courseAll__header_price_">
               <span></span>
@@ -30,67 +31,80 @@
     <div class="htmlcss_body wraper__position flex flexDirCol">
       <div class="courseAll__start_h1">Программа курса</div>
       <details class="courseAll__body_details">
-        <summary>Основы AJax приложения</summary>
-        <div> &nbsp;&nbsp;Что такое AJax.</div>
-        <div> &nbsp;&nbsp;Механизмы взаимодействия с сервером.</div>
-        <div> &nbsp;&nbsp;Обьект XmlHttpRequest.</div>
-        <div> &nbsp;&nbsp;Синхронные и асинхронные запросы.</div>
-        <div> &nbsp;&nbsp;Получение данных с сервера.</div>
-        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
+        <summary>Основы программирования </summary>
+        <div> &nbsp;&nbsp;Как устроен компьютер.</div>
+        <div> &nbsp;&nbsp;Как работают программы.</div>
+        <div> &nbsp;&nbsp;Введение в JavaScript.</div>
+        <div> &nbsp;&nbsp;Обзор базовых типов</div>
+        <div> &nbsp;&nbsp;Операторы</div>
+        <div> &nbsp;&nbsp;Выражения и инструкции</div>
+        <div> &nbsp;&nbsp;Переменные</div>
+        <div> &nbsp;&nbsp;Приведение типов</div>
+        <div> &nbsp;&nbsp;Тривиальные типы</div>
       </details>
       <details class="courseAll__body_details">
-        <summary>AJax и HTTP</summary>
-        <div>&nbsp;&nbsp;Методы передачи данных на сервер</div>
-        <div>&nbsp;&nbsp;Передача простых данных методом GET</div>
-        <div>&nbsp;&nbsp;Управление кешированием ответа</div>
-        <div>&nbsp;&nbsp;Метод HEAD</div>
+        <summary>Управляющие конструкции</summary>
+        <div>&nbsp;&nbsp;Цикл while</div>
+        <div>&nbsp;&nbsp;Операторы инкремента и декремента</div>
         <div>&nbsp;&nbsp;Лабораторная работа 1</div>
-        <div>&nbsp;&nbsp;Передача простых данных методом POST</div>
-        <div>&nbsp;&nbsp;Получение и разбор комплексных данных</div>
+        <div>&nbsp;&nbsp;Цикл for</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 2</div>
+        <div>&nbsp;&nbsp;Цикл do while</div>
+        <div>&nbsp;&nbsp;Управляющие конструкции if, else if, else</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 3</div>
+        <div>&nbsp;&nbsp;Метки</div>
+        <div>&nbsp;&nbsp;Прерывание и продолжения цикла</div>
+        <div>&nbsp;&nbsp;Управляющая конструкция switch</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 4</div>
+      </details>
+      <details class="courseAll__body_details">
+        <summary>Функции</summary>
+        <div>&nbsp;&nbsp;Понятия функций</div>
+        <div>&nbsp;&nbsp;Возврат значений</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
+        <div>&nbsp;&nbsp;Области видимости</div>
+        <div>&nbsp;&nbsp;Анонимная функция</div>
+        <div> &nbsp;&nbsp;Замыкания</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 2</div>
+        <div> &nbsp;&nbsp;Рекурсия</div>
+      </details>
+      <details class="courseAll__body_details">
+        <summary>Обьекты и массивы</summary>
+        <div>&nbsp;&nbsp;Обьектрный тип Object</div>
+        <div>&nbsp;&nbsp;Свойства обьекта</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
+        <div>&nbsp;&nbsp;Методы обьекта</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 2</div>
+        <div>&nbsp;&nbsp;Методы функций</div>
+        <div> &nbsp;&nbsp;Обьектный тип Массив(Array)</div>
+        <div> &nbsp;&nbsp;Свойства и методы массива</div>
+        <div> &nbsp;&nbsp;Встроенный обьект Math</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 3</div>
+      </details>
+      <details class="courseAll__body_details">
+        <summary>Использование обьектов JS</summary>
+        <div>&nbsp;&nbsp;Свойства и методы обьекта Number</div>
+        <div>&nbsp;&nbsp;Свойства и методы глобального обьекта</div>
+        <div>&nbsp;&nbsp;Свойства и методы обьекта String</div>
+        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
+        <div>&nbsp;&nbsp;Использование регулярных выражений</div>
         <div>&nbsp;&nbsp;Лабораторная работа 2</div>
       </details>
       <details class="courseAll__body_details">
-        <summary>Передача сложных типов данных JSON</summary>
-        <div>&nbsp;&nbsp;Недостатки простых текстовых форматов</div>
-        <div>&nbsp;&nbsp;Серелизация сложных данных</div>
-        <div>&nbsp;&nbsp;Что такое JSON</div>
-        <div>&nbsp;&nbsp;Разбор JSON пакета в браузере</div>
-        <div>&nbsp;&nbsp;Разбор JSON пакета на сервере PHP</div>
-        <div>&nbsp;&nbsp;Получение данных с сервера</div>
-        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
+        <summary>Использование изображений</summary>
+        <div>&nbsp;&nbsp;Типы изображений используемые в www</div>
+        <div>&nbsp;&nbsp;Вставка изображений на страницу</div>
+        <div>&nbsp;&nbsp;Атрибуты элементов img</div>
+        <div> &nbsp;&nbsp;Лабараторная работа 1</div>
       </details>
       <details class="courseAll__body_details">
-        <summary>Использование XML, XML - RPC</summary>
-        <div>&nbsp;&nbsp;Проблемы текстовых данных и JSON</div>
-        <div>&nbsp;&nbsp;Другие способы передачи струиктированных данных</div>
-        <div>&nbsp;&nbsp;Обзор XML технологий</div>
-        <div>&nbsp;&nbsp;Клиент ориентированная и сервер ариентированная архитектура</div>
-        <div>&nbsp;&nbsp;Протокол XML - RPC</div>
-        <div>&nbsp;&nbsp;Формирование XML - RPC запроса</div>
-        <div>&nbsp;&nbsp;Преобразования XML данных</div>
-        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
-      </details>
-      <details class="courseAll__body_details">
-        <summary>Использование XML веб сервисов SOAP</summary>
-        <div>&nbsp;&nbsp;XML веб сервисы</div>
-        <div>&nbsp;&nbsp;Проблемы XML - RPC</div>
-        <div>&nbsp;&nbsp;XML схемы обзорно</div>
-        <div>&nbsp;&nbsp;SOAP обзорно</div>
-        <div>&nbsp;&nbsp;Формирование и разбор SOAP сообщений</div>
-        <div>&nbsp;&nbsp;Прмиер работы с  XML веб сервисами</div>
-        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
-      </details>
-      <details class="courseAll__body_details">
-        <summary>Безопастность и эффективность AJAX приложений</summary>
-        <div>&nbsp;&nbsp;Вопросы безопастности AJAX приложений</div>
-        <div>&nbsp;&nbsp;Аутентификация и авторизация пользователя</div>
-        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
-        <div>&nbsp;&nbsp;Проблемы юзабилити AJAX приложений</div>
-        <div>&nbsp;&nbsp;Производительность AJAX приложений</div>
-        <div>&nbsp;&nbsp;Лабораторная работа 2</div>
-        <div>&nbsp;&nbsp;Обзор решений AJAX</div>
-        <div>&nbsp;&nbsp;Подведение итогов</div>
-        <div>&nbsp;&nbsp;Лабораторная работа 1</div>
+        <summary>ООП</summary>
+        <div>&nbsp;&nbsp;Конструкторы обьектов</div>
+        <div> &nbsp;&nbsp;Лабараторная работа 1</div>
+        <div>&nbsp;&nbsp;Прототипы</div>
+        <div>&nbsp;&nbsp;Обьект Date</div>
+        <div> &nbsp;&nbsp;Лабараторная работа 2</div>
+        <div>&nbsp;&nbsp;Обьект Error</div>
       </details>
     </div>
     <div class="htmlcss__start ">

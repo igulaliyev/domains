@@ -141,14 +141,20 @@
           Этапы обучения
         </div>
         <div class="courseAll__content flex flWrap flJusContSpacAround">
-          <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="courseAll__start_b1_img">
-              <img src="images/design.png" alt="Вебинар html css">
+          <div class="courseAll__content_border1">
+            <div class="courseAll_start_b1 flex flexDirCol">
+              <div class="courseAll__start_b1_img">
+                <div class="courseAll__start_b1_imgCircle">
+                  
+                </div>
+                <img src="images/design.png" alt="Вебинар html css">
+              </div>
+              <div class="courseAll__start_b1_h1">Вебинар</div>
+              <div class="courseAll__start_body">
+                Студенты присоединяются к прямой трансляции занятия. Наши онлайн-курсы HTML & CSS предоставляют уроки, которые остаются в записи даже после завершения курса.
+              </div>
             </div>
-            <div class="courseAll__start_b1_h1">Вебинар</div>
-            <div class="htmlcss_start_b1_txt">
-              Студенты присоединяются к прямой трансляции занятия. Наши онлайн-курсы HTML & CSS предоставляют уроки, которые остаются в записи даже после завершения курса.
-            </div>
+            <div class="courseAll__footer">1</div>
           </div>
           <div class="htmlcss_start_b1 flex flexDirCol">
             <div class="courseAll__start_b1_img">

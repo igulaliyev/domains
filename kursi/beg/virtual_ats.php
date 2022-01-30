@@ -1,24 +1,11 @@
 <div class="viats__body flex flexDirCol">
   <div class="viats__head">
-    <div class="viats__wraper__position wraper__position flex">
-      <div class="flexDirCol flex">
-        <div class="viats_header_body_text">
-          Улучшайте качество услуг в вашей компании с помощью умной телефонии
-          <br /><br />Виртуальная АТС автоматизирует работу и повышает эффективность сотрудников и качество обслуживания клиентов
-        </div>
-        <div class="viats_head_enumeration_wrap flex">
-          <div class="viats__header_mnogouq">
-            <div class="viats_head_free_test"><span>Для офиса</span></div>
-          </div>
-          <div class="viats__header_mnogouq">
-            <div class="viats_head_free_test"><span>Call - center</span></div>
-          </div>
-          <div class="viats__header_mnogouq">
-            <div class="viats_head_free_test"><span>Для удаленной работы</span></div>
-          </div>
-        </div>
-      </div>
-      <div class="viats_header_img body__images_all"></div>
+    <div class="viats__head_imgT"></div>
+    <div class="viats__head_img_cloud">
+      <img src="../images/viats_cloud_sm.png" alt="Виртуальный АТС">
+    </div>
+    <div class="viats_header_img wraper__position">
+      <img src="../images/viats_no_c_t.png" alt="Виртуальный АТС">
     </div>
   </div>
   <div class="viats_help_buss">
@@ -123,51 +110,13 @@
     </div>
   </div>
   <div class="viats_tarif">
-    <div class="">
+    <div class="wraper__position">
       <div class="viats_tarif_info">Тарифы и цены</div>
       <div class="viats_tarifWr flex flWrap">
-        <div class="t1 box_position flex flexDirCol">
-          <div class="viats_tarif_div">
-            <div class="viats_tarif1_co flex flDirRow">
-              <div class="viats_tarif1h1">Small Business</div><div class="viats_tarif1h1_p font_icon_posi"> 3</div>
-            </div>
-            <div class="viats_tarif1_Price"> 15m /в мес (при оплате на 1 год)</div><hr />
-            <div class="viats_tarif1_list_img1">
-              <span class="viats_tarif1_listIco1 viats_listIco"></span>Личный кабинет Админ
-              <span class="viatsTar_value">1</span>
-            </div>
-            <div class="viatsTarif1_list">
-              <span class="viats_tarif1_listIco2 viats_listIco"></span>Внутрение номера
-              <span class="viatsTar_value">3</span>
-            </div>
-            <div class="viatsTarif1_list">
-              <span class="viats_tarif1_listIco5 viats_listIco"></span>Количество входящих звонков <br />на каждый внутренний номер
-              <span class="viatsTar_value">1</span>
-            </div>
-            <div class="viatsTarif1_list">
-              <span class="viats_tarif1_listIco3 viats_listIco"></span>Городской номер
-              <span class="viatsTar_value">1</span>
-            </div>
-            <div class="viatsTarif1_list">
-              <span class="viats_tarif1_listIco4 viats_listIco"></span>Запись звонков
-              <span class="viatsTar_value">100мб</span>
-            </div>
-            <div class="viatsTarif1_list">
-              <span class="viats_tarif1_listIco4 viats_listIco"></span>Архив Записей дней
-              <span class="viatsTar_value">60</span>
-            </div>
-          </div>
-          <div class="viats_tarif1_foot">
-            <hr />
-            <div class="viats_tarif1_conn">
-                Подключить
-            </div>
-          </div>
-        </div>
         <div class="t2 box_position flex flexDirCol">
           <div class="viats_tarif_div">
             <div class="viats_tarif1_co flex flDirRow">
-              <div class="viats_tarif1h1">Medium Business</div><div class="viats_tarif1h1_p font_icon_posi"> 8</div>
+              <div class="viats_tarif1h1">Small Business</div><div class="viats_tarif1h1_p font_icon_posi"> 8</div>
             </div>
             <div class="viats_tarif1_Price"> 40m /в мес (при оплате на 1 год)</div><hr />
             <div class="viats_tarif1_list_img1">
@@ -217,7 +166,7 @@
         <div class="t3 box_position flex flexDirCol">
           <div class="viats_tarif_div">
             <div class="viats_tarif1_co flex flDirRow">
-              <div class="viats_tarif1h1">Big Business</div><div class="viats_tarif1h1_p font_icon_posi"> 15</div>
+              <div class="viats_tarif1h1">Medium Business</div><div class="viats_tarif1h1_p font_icon_posi"> 15</div>
             </div>
             <div class="viats_tarif1_Price"> 100m /в мес (при оплате на 1 год)</div><hr />
             <div class="viats_tarif1_list_img1">
@@ -279,7 +228,7 @@
         <div class="t4 box_position flex flexDirCol">
           <div class="viats_tarif_div">
             <div class="viats_tarif1_co flex flDirRow">
-              <div class="viats_tarif1h1">Unlimited</div><div class="viats_tarif1h1_p font_icon_posi"> 30</div>
+              <div class="viats_tarif1h1">Big Business</div><div class="viats_tarif1h1_p font_icon_posi"> 30</div>
             </div>
             <div class="viats_tarif1_Price"> 180m /в мес (при оплате на 1 год)</div><hr />
             <div class="viats_tarif1_list_img1">

@@ -5,10 +5,10 @@
       <div class="coure__subject flex flWrap flJusContSpacAround">
         <a href="index.php?id=htmlcss_course"><div>HTML<span> & </span>CSS</div></a>
         <a href="index.php?id=JavaScript_all"><div>JavaScript</div></a>
-        <div>NodeJS</div>
+        <a href="index.php?id=nodeJS"><div>NodeJS</div></a>
         <div>VueJS</div>
-        <div>Ajax</div>
-        <div>JQuery</div>
+        <a href="index.php?id=ajax"><div>Ajax</div></a>
+        <a href="index.php?id=jquery"><div>JQuery</div></a>
         <div>MsSQL</div>
         <div>MySQL</div>
         <div>PHP</div>

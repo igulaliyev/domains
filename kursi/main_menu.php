@@ -36,7 +36,7 @@
               <li><a href="">Система видео наблюдения</a></li>
             </ul>
           </li>
-          <li><a href="">Контакты</a></li>
+          <li><a href="index.php?id=contact">Контакты</a></li>
         </ul>
     </nav>
   </div>
