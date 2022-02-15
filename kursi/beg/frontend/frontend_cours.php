@@ -1,5 +1,5 @@
 <div class="frontend__ flex flexDirCol">
-  <div class="frontend_header_1 course_header_pozi">
+  <div class="frontend_header_1 frontend__header">
     <div class="frontend__header_wr wraper__position flex flWrap">
       <div class="frontend__header_h1">Front End</div>
       <div class="frontend__header_txt">
@@ -8,7 +8,7 @@
     </div>
   </div>
   <div class="frontend__course flex flexDirCol wraper__position frontend_course_1">
-    <div class="frontend_1_html box_position position_frontend_1">
+    <div class="frontend_1_html courseAll__box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">HTML & CSS Базовый</div>
@@ -25,7 +25,7 @@
         <a href="index.php?id=htmlcss"><div class="frontend_1_html_b4_1"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend_2_html box_position position_frontend_1">
+    <div class="frontend_2_html courseAll__box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">HTML & CSS продвинутый</div>
@@ -42,7 +42,7 @@
         <a href="index.php?id=htmlcss2"><div class="frontend_1_html_b4_1"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend_1_JavaScript box_position position_frontend_1">
+    <div class="frontend_1_JavaScript courseAll__box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">JavaScript базовый</div>
@@ -59,7 +59,7 @@
         <a href="#"><div class="frontend_1_html_b4_1"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend_2_JavaScript box_position position_frontend_1">
+    <div class="frontend_2_JavaScript courseAll__box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">JavaScript продвинутый</div>
@@ -76,7 +76,7 @@
         <a href="#"><div class="frontend_1_html_b4_1"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend_3_JavaScript box_position position_frontend_1">
+    <div class="frontend_3_JavaScript courseAll__box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">JavaScript проффессиональный</div>
@@ -93,7 +93,7 @@
         <a href="#"><div class="frontend_1_html_b4_1"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend_JQuery box_position position_frontend_1">
+    <div class="frontend_JQuery courseAll__box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">JQuery</div>
@@ -110,7 +110,7 @@
         <a href="#"><div class="frontend_1_html_b4_1"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend_Ajax box_position position_frontend_1">
+    <div class="frontend_Ajax courseAll__box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">AJax</div>
@@ -127,7 +127,7 @@
         <a href="#"><div class="frontend_1_html_b4_1"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend_VueJS box_position position_frontend_1">
+    <div class="frontend_VueJS courseAll__box_position position_frontend_1">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">VueJS</div>

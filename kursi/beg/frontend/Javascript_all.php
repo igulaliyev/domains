@@ -9,7 +9,7 @@
     </div>
   </div>
   <div class="frontend__course flex flexDirCol wraper__position">
-    <div class="frontend__possition box_position  frontend__possition_backgJsall">
+    <div class="frontend__possition courseAll__box_position  frontend__possition_backgJsall">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">JavaScript базовый</div>
@@ -26,7 +26,7 @@
         <a href="index.php?id=js1"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend__possition box_position  frontend__possition_backgJsall">
+    <div class="frontend__possition courseAll__box_position  frontend__possition_backgJsall">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">JavaScript продвинутый</div>
@@ -43,7 +43,7 @@
         <a href="index.php?id=js2"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend__possition box_position frontend__possition_backgJsall">
+    <div class="frontend__possition courseAll__box_position frontend__possition_backgJsall">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">JavaScript проффессиональный</div>

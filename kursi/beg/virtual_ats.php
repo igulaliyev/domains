@@ -14,7 +14,7 @@
        Как услуга поможет бизнесу ?
       </div>
       <div class="viats_help_content flex">
-        <div class="box_position flex flWrap">
+        <div class="courseAll__box_position flex flWrap">
           <div class="viats_help_img_s1_border viats_help_img_border">
             <div class="viats_help_img_s1_border2 viats_help_img_border2_all">
               <div class="viats_help_img_s1 body__images_all viats__image_size"></div>
@@ -24,7 +24,7 @@
           <span>Благодаря автоматической переадресации  ваши клиенты сразу попадут в нужный отдел. Ваши сотрудники смогут  принимать несколько вызовов одновременно  как на офисном так и на мобильном  телефоне
           </span>
         </div>
-        <div class="box_position flex flWrap">
+        <div class="courseAll__box_position flex flWrap">
           <div class="viats_help_img_s2_border viats_help_img_border">
             <div class="viats_help_img_s2_border2 viats_help_img_border2_all">
               <div class="viats_help_img_s2 body__images_all viats__image_size"></div>
@@ -34,7 +34,7 @@
           <span>Вам не понадобится  дополнительное оборудование, покупка дорогостоющих серверов и помощь IT - специалиста, телефонный номер останется с вами навсегда, так что вы можете использовать его во всех рекламных материалах
           </span>
         </div>
-        <div class="box_position flex flWrap">
+        <div class="courseAll__box_position flex flWrap">
           <div class="viats_help_img_s3_border viats_help_img_border">
             <div class="viats_help_img_s3_border2 viats_help_img_border2_all">
               <div class="viats_help_img_s3 body__images_all viats__image_size"></div>
@@ -113,7 +113,7 @@
     <div class="wraper__position">
       <div class="viats_tarif_info">Тарифы и цены</div>
       <div class="viats_tarifWr flex flWrap">
-        <div class="t2 box_position flex flexDirCol">
+        <div class="t2 courseAll__box_position flex flexDirCol">
           <div class="viats_tarif_div">
             <div class="viats_tarif1_co flex flDirRow">
               <div class="viats_tarif1h1">Small Business</div><div class="viats_tarif1h1_p font_icon_posi"> 8</div>
@@ -163,7 +163,7 @@
             </div>
           </div>
         </div>
-        <div class="t3 box_position flex flexDirCol">
+        <div class="t3 courseAll__box_position flex flexDirCol">
           <div class="viats_tarif_div">
             <div class="viats_tarif1_co flex flDirRow">
               <div class="viats_tarif1h1">Medium Business</div><div class="viats_tarif1h1_p font_icon_posi"> 15</div>
@@ -225,7 +225,7 @@
             </div>
           </div>
         </div>
-        <div class="t4 box_position flex flexDirCol">
+        <div class="t4 courseAll__box_position flex flexDirCol">
           <div class="viats_tarif_div">
             <div class="viats_tarif1_co flex flDirRow">
               <div class="viats_tarif1h1">Big Business</div><div class="viats_tarif1h1_p font_icon_posi"> 30</div>
@@ -317,7 +317,7 @@
               <div class="viats_calcJs_left calc_buttom_all" onclick="calc_number('dec','viats_calc_num')">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill-rule="evenodd" d="M22 15v2H10v-2z"></path></svg>
               </div>
-              <input class="viats_calcJs_input" type="text" id="viats_calc_num" value="1"onkeyup="this.value = this.value.replace(/[^\d]/g,'')";>
+              <input class="viats_calcJs_input" type="text" id="viats_calc_num" value="1" onkeyup="this.value = this.value.replace(/[^\d]/g,'')">
               <div class="viats_calcJs_right calc_buttom_all" onclick="calc_number('inc','viats_calc_num')">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill-rule="evenodd" d="M17 15h5v2h-5v5h-2v-5h-5v-2h5v-5h2v5z"></path></svg>
               </div>
@@ -327,7 +327,7 @@
               <div class="viats_calcJs_left calc_buttom_all" onclick="calc_dayA('dec','viats_calc_day')">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill-rule="evenodd" d="M22 15v2H10v-2z"></path></svg>
               </div>
-              <input class="viats_calcJs_input" type="text" id="viats_calc_day" value="1"onkeyup="this.value = this.value.replace(/[^\d]/g,'')";>
+              <input class="viats_calcJs_input" type="text" id="viats_calc_day" value="1" onkeyup="this.value = this.value.replace(/[^\d]/g,'')">
               <div class="viats_calcJs_right calc_buttom_all" onclick="calc_dayA('inc','viats_calc_day')">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill-rule="evenodd" d="M17 15h5v2h-5v5h-2v-5h-5v-2h5v-5h2v5z"></path></svg>
               </div>
@@ -337,7 +337,7 @@
               <div class="viats_calcJs_left calc_buttom_all" onclick="calc_mb('dec','viats_calc')">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill-rule="evenodd" d="M22 15v2H10v-2z"></path></svg>
               </div>
-              <input class="viats_calcJs_input" type="text" id="viats_calc" value="100"onkeyup="this.value = this.value.replace(/[^\d]/g,'')";>
+              <input class="viats_calcJs_input" type="text" id="viats_calc" value="100" onkeyup="this.value = this.value.replace(/[^\d]/g,'')">
               <div class="viats_calcJs_right calc_buttom_all" onclick="calc_mb('inc','viats_calc')">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill-rule="evenodd" d="M17 15h5v2h-5v5h-2v-5h-5v-2h5v-5h2v5z"></path></svg>
               </div>
@@ -392,7 +392,7 @@
     <div class="wraper__position">
       <div class="viats_step_connectWr">
         <div class="viats_step_connectHead">Как происходит подключение ?</div>
-        <div class="viats_step_connectBody box_position flex flWrap">
+        <div class="viats_step_connectBody courseAll__box_position flex flWrap">
           <div class="viats_step_connectBodyStep">
             <div class="viats_step_connectBodySteph1">Шаг 1. Выбор городского номера</div>
             <div class="">

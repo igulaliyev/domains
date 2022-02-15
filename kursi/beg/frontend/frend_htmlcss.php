@@ -9,7 +9,7 @@
     </div>
   </div>
   <div class="frontend__course flex flexDirCol wraper__position">
-    <div class="frontend__possition box_position frontend__possition_backg_csshtml">
+    <div class="frontend__possition courseAll__box_position frontend__possition_backg_csshtml">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="">
           <div class="frontend_1_html_h1">HTML & CSS Базовый</div>
@@ -26,7 +26,7 @@
         <a href="index.php?id=htmlcss"><div class="frontend_1_html_b4"><div class="frontend_1_html_txt">Подробнее</div></div></a>
       </div>
     </div>
-    <div class="frontend__possition box_position frontend__possition_backg_csshtml">
+    <div class="frontend__possition courseAll__box_position frontend__possition_backg_csshtml">
       <div class="frontend_1_html_wr flex flWrap ">
         <div class="frontend_1_html_b1">
           <div class="frontend_1_html_h1">HTML & CSS продвинутый</div>

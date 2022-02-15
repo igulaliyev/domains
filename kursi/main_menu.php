@@ -18,17 +18,17 @@
     </div>
     <nav class="fixed__menu">
         <ul class="fixed__menu_ul">
-          <a href="index.php"><li>Главная</li></a>
-          <a href="index.php?id=virtual_ats"><li>Виртуальный АТС</li></a>
-          <a href="index.php?id=voice"><li>Ip телефония</li></a>
+          <li><a href="index.php">Главная</a></li>
+          <li><a href="index.php?id=virtual_ats">Виртуальный АТС</a></li>
+          <li><a href="index.php?id=voice">Ip телефония</a></li>
           <li class="fixed__menu_arrow">Онлайн курсы
             <ul class="fixed__menu_online_curs">
-              <a href="index.php?id=FrontEnd"><li>FrontEnd</li></a>
-              <a href="index.php?id=BackEnd"><li>BackEnd</li></a>
-              <li><a href="">Детские курсы</a></li>
+              <li><a href="index.php?id=FrontEnd">FrontEnd</a></li>
+              <li><a href="index.php?id=BackEnd">BackEnd</a></li>
+              <!--<li><a href="">Детские курсы</a></li>-->
             </ul>
           </li>
-          <li><a href="">Инвидуальные курсы</a></li>
+          <li><a href="">Создание сайтов</a></li>
           <li class="fixed__menu_service">Услуги
             <ul class="fixed__menu_service_ul">
               <li><a href="">Создание сайтов</a></li>

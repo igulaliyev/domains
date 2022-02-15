@@ -1,4 +1,4 @@
-.course__colum_content > div{margin-bottom: 5rem;}
+.course__colum_content > section{margin-bottom: 5rem;}
 .course__colum{background-image: url("../images/body_course_colum.jpg");
   box-shadow:0 0 0 408px rgba(0, 0, 0, 0.70) inset;
   min-height: 800px
@@ -24,61 +24,46 @@
     letter-spacing: 3px;
     font-size: 20px;
     transition:border 1s linear;
-    background-color: inherit;
   }
   .coure__subject a{color: var(--colorWhite)}
-  .coure__subject div:nth-child(1){background-color: #004D95;}
-  .coure__subject div:nth-child(2){background-color: #0C952D;}
-  .coure__subject div:nth-child(3){background-color: #560095;}
-  .coure__subject div:nth-child(4){background-color: #950048;}
-  .coure__subject div:nth-child(5){background-color: #8E001A;}
-  .coure__subject div:nth-child(6){background-color: #8E5E00;}
-  .coure__subject div:nth-child(7){background-color: #00A564;}
-  .coure__subject div:nth-child(8){background-color: #006EA5;}
-  .coure__subject div:nth-child(9){background-color: #363AAB;}
-  .coure__subject div:nth-child(10){background-color: #843F8B;}
-  .coure__subject div:nth-child(11){background-color: #3F5B8B;}
-  .coure__subject div:nth-child(12){background-color: #8B3F54;}
-  .coure__subject div:nth-child(13){background-color: #8B663F;}
-  .coure__subject div:nth-child(14){background-color: #2F755C;}
-  .coure__subject div:nth-child(15){background-color: #179035;}
-  .coure__subject div:nth-child(16){background-color: #178990;}
-  .coure__subject div:nth-child(17){background-color: #00104D;}
+  .coure__subLink1{background-color: #004D95;}
+  .coure__subLink2{background-color: #0C952D;}
+  .coure__subLink3{background-color: #560095;}
+  .coure__subLink4{background-color: #950048;}
+  .coure__subLink5{background-color: #8E001A;}
+  .coure__subLink6{background-color: #8E5E00;}
+  .coure__subLink7{background-color: #00A564;}
+  .coure__subLink8{background-color: #006EA5;}
+  .coure__subLink9{background-color: #363AAB;}
+  .coure__subLink10{background-color: #843F8B;}
+  .coure__subLink11{background-color: #3F5B8B;}
+  .coure__subLink12{background-color: #8B3F54;}
+  .coure__subLink13{background-color: #8B663F;}
+  .coure__subLink14{background-color: #2F755C;}
+  .coure__subLink15{background-color: #179035;}
+  .coure__subLink16{background-color: #178990;}
+  .coure__subLink4{background-color: #00104D;}
   .coure__subject div:hover{
     transition: 1s;
     box-shadow:0 0 0 408px rgba(0, 0, 0, 0.70) inset;
     cursor: pointer;
     border-style: dotted;
   }
-.benefits__header{font-size: 2rem;
-    text-align: center;
-  }
-.benefits__wraper{vertical-align: middle;}
+/*--------------------------benefits-------------------------------------*/
+.benefits__header, .benefits__body{text-align: center;}
+.benefits__body_borR, .benefits__body_borL{
+  border-right: 2px solid silver;
+  padding-right: 3rem;
+}
+.benefits__wraper{margin-top: 4rem;}
 .benefits__wraper > div{
-  max-width: 17rem;
-  overflow:hidden;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 20px;
-  margin-left: 3rem;
-  overflow: hidden;
+  width: 20rem;
 }
-.benefits__images_all{
- width: 6rem;
- height: 5rem;
- background-size:contain;
-}
-.benefits__images_effect{background-image: url("../images/effect.png");}
-.benefits__images_teoria{background-image: url("../images/teoria_praktika1.png");}
-.benefits__images_group{background-image: url("../images/group.png");}
-.benefits__images_soprovo{background-image: url("../images/soprovo.png");}
-.benefits__images_work{background-image: url("../images/work.png");}
-.benefits__text{text-align: center;}
-
+.benefits__img{margin:2rem 0px;}
+.benefits__head > h4{margin-bottom: 1rem;}
 /*--------------------------timer-------------------------------------*/
 .clock__timer{background-color: #F8F9F9;
-  min-height: 45rem
+  min-height: 40rem;
 }
 .clock__wraper{text-align: center;}
 .clock__header{margin-top: 5rem;font-size: 3rem}
@@ -108,8 +93,8 @@
   color:black;
 }
   /*--------------------------timer- end------------------------------------*/
-.step__{margin-bottom: 10rem;}
-.step__wraper > h2{text-align: center;}
+.step__{margin: 5rem 0px;}
+.step__wraper > h2{text-align: center;margin-bottom: 5rem}
 .step__start{width: 100%;
   height: 100%;
   align-items: center;
@@ -165,6 +150,6 @@
   color:var(--colorWhite);text-align: center;
   padding: 2rem;
   border-radius: 20px;
-  max-width: 19rem;
+  max-width: 23rem;
   font-size: 3rem;font-weight: bold;
 }

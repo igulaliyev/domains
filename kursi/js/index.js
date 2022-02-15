@@ -38,7 +38,7 @@ Vue.component('clock_id', {
 
  data() {
    return{
-     deadline: 'Jan 1, 2022 00:00:00',
+     deadline: 'Jan 1, 2023 00:00:00',
      days: 'HI',
      hours: 'TH',
      minutes: 'ER',

@@ -4,6 +4,13 @@
   padding: 5rem 0px;
   justify-content: space-around;
 }
+.courseAll__box_position{border: 1px solid #E0E0E0;
+  box-shadow: 1px 1px 10px 1px #E0E0E0;
+  padding: 1rem;
+  border-radius: 1rem;
+  color:#7A7A7A;
+  margin-bottom: 2rem;
+}
 .courseAll__header > div{width: 45%;}
 .courseAll__header_name{
   font-size: 3rem;
@@ -45,10 +52,46 @@
   content: "\eb41 ";
   color: silver;
 }
-.courseAll__content > div{width: 20%}
+.courseAll__content_border1{
+  width: 20%;
+}
 .courseAll__start_b1_img{
   text-align: center;
-  margin-bottom: 2rem;
+  margin: 0 auto;
+}
+.courseAll__startB1_imgCircle, .courseAll__startB2_imgCircle{
+  background-color: var(--colorWhite);
+  border-radius: 50%;
+  padding:1rem;
+}
+.courseAll__startB1_imgCircle{
+  border: 1px dotted silver;
+  width: 5rem;
+  height: 5rem;
+}
+.courseAll__startB2_imgCircle{
+  border: 1px solid silver;
+  width: 3rem;
+  height: 3rem;
+}
+.courseAll__startB2_img1,
+.courseAll__startB2_img2,
+.courseAll__startB2_img3,
+.courseAll__startB2_img4{
+  max-width: 5rem;
+  height: 3rem;
+}
+.courseAll__startB2_img1{
+  background-image:url("../images/design.png");
+}
+.courseAll__startB2_img2{
+  background-image:url("../images/desk-lamp.png");
+}
+.courseAll__startB2_img3{
+  background-image:url("../images/email.png");
+}
+.courseAll__startB2_img4{
+  background-image:url("../images/ui.png");
 }
 .courseAll_start_b1{
   background-color: rgb(247,247,253);
@@ -56,6 +99,7 @@
   -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
+  height: 23rem;
 }
 .courseAll__footer{
   background-color: rgb(124,162,223);
@@ -63,7 +107,6 @@
   width: 3rem;
   border-radius: 50%;
   text-align: center;
-  position: relative;
   margin:-30px 0px 0px 35%;
   color: var(--colorWhite);
   font-size: 2rem;
@@ -73,12 +116,11 @@
   box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.7);
 }
 .courseAll__start_body{margin-bottom: 2rem;}
-.courseAll__start_b1_img > img{width: 64px; height: 64px;}
 .courseAll__start_b1_h1{
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;
-  margin-bottom: 1rem;
+  margin: 1rem 0px;
 }
 .courseAll__study{width: 100%}
 .courseAll__study > span{

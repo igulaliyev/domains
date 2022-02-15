@@ -1,6 +1,6 @@
 <div class="htmlcss">
   <div class="flex flexDirCol">
-    <div class="htmlcss__header_wraper2 htmlcss__header_backg courseAll__header_position">
+    <div class="htmlcss__header_wraper2 courseAll__header_position frontend__header">
       <div class="courseAll__header wraper__position flex flWrap">
         <div class="courseAll__header_name">
           <span class="htmlcss__headehtml_img htmlcss__Img_color2"></span>
@@ -213,50 +213,8 @@
         <div>&nbsp;&nbsp;Введение</div>
       </details>
     </div>
-    <div class="htmlcss__start2 ">
-      <div class="wraper__position flex flexDirCol">
-        <div class="courseAll__start_h1">
-          Этапы обучения
-        </div>
-        <div class="courseAll__content flex flWrap flJusContSpacAround">
-          <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="courseAll__start_b1_img">
-              <img src="images/design.png" alt="Вебинар html css">
-            </div>
-            <div class="courseAll__start_b1_h1">Вебинар</div>
-            <div class="htmlcss_start_b1_txt">
-              Студенты присоединяются к прямой трансляции занятия. Наши онлайн-курсы HTML & CSS предоставляют уроки, которые остаются в записи даже после завершения курса.
-            </div>
-          </div>
-          <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="courseAll__start_b1_img">
-              <img src="images/desk-lamp.png" alt="домашнее задание html css">
-            </div>
-            <div class="courseAll__start_b1_h1">Домашнее задание</div>
-            <div class="htmlcss_start_b1_txt">
-              Все задания основаны на теме, которую студенты ранее прошли на вебинаре. Домашнее задание помогает закрепить материал и лучше понять, как создается сайт.
-            </div>
-          </div>
-          <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="courseAll__start_b1_img">
-              <img src="images/email.png" alt="фотка 3">
-            </div>
-            <div class="courseAll__start_b1_h1">Работа с наставником</div>
-            <div class="htmlcss_start_b1_txt">
-              Наставник в контакте с группой как в учебное, так и во внеучельное время. Это помогает решать возникающие проблемы и делает изучение нового материала легким и понятным.
-            </div>
-          </div>
-          <div class="htmlcss_start_b1 flex flexDirCol">
-            <div class="courseAll__start_b1_img">
-              <img src="images/ui.png" alt="фотка 4">
-            </div>
-            <div class="courseAll__start_b1_h1">Курсовой проект</div>
-            <div class="htmlcss_start_b1_txt">
-              В конце каждого курса студенты готовят собственный проект, который впоследствии может быть включен в их портфолио.
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="htmlcss__start ">
+      <?php include_once("beg/footer_course.php");?>
     </div>
     <div class="courseAll__study wraper__position flex flexDirCol flJusContSpacAround">
       <div class="courseAll__start_h1">

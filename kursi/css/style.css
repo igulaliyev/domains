@@ -1,9 +1,12 @@
 :root{
   --colorWhite: white;
 }
-body{
+*{
   margin: 0px;
   padding: 0px;
+  box-sizing: border-box;
+}
+body{
   color: #2E4053;
   background-color: var(--colorWhite);
   font-size: 1rem;
@@ -12,6 +15,7 @@ body{
   height: 100%;
   overflow-x: hidden;
 }
+main{margin-top: 110px;}
 .flex{display: flex;}
 .flexDirCol{flex-direction: column;}
 .flWrap{flex-wrap: wrap;}

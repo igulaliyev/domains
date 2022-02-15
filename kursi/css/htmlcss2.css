@@ -1,4 +1,3 @@
-.course_header_pozi{padding: 8rem 0px}
 .htmlcss__header_wraper2{
   background-color: rgba(89,31,43,1);
   background: linear-gradient(90deg,
@@ -13,12 +12,4 @@
 .htmlcss__header_price2{
   padding:3rem 0px;
   border: 1px solid #970C3A;
-}
-.htmlcss__start2{
-  background-color: #A4F5D5;
-  padding-bottom: 3rem;
-  background: linear-gradient(90deg,
-    rgba(204,181,186,1) 0%,
-    rgba(228,198,201,1) 50%,
-    rgba(210,161,164,1) 100%);
 }

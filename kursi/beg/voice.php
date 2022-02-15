@@ -16,7 +16,7 @@
       </div>
       <div class="voice_right_head">
         <div>
-          <img src="images/voice1.png" alt="ip - telephone (ip телефония)" images_all class="voice_right_imgCover">
+          <img src="images/voice1.png" alt="ip - telephone (ip телефония)" class="voice_right_imgCover">
         </div>
       </div>
     </div>

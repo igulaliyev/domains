@@ -1,4 +1,11 @@
-.mainMenu__header{background-color: #F8F9F9; z-index: 9999}
+.mainMenu__header{
+  background-color: #F8F9F9;
+  z-index: 9999;
+  top:0;
+  left:0;
+  position: fixed;
+  width: 100%;
+}
 .mainMenu__header a{color:#2E4053}
 .mainMenu__header_wraper{color: #2E4053;}
 .mainMenu__logo_img > img{

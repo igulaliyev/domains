@@ -21,7 +21,7 @@
       </div>
     </div>
   </header>
-  <main class="contakt__main">
+  <section class="contakt__main">
     <div class="contakt__wrap_">
       <div class="contakt__wr_h">
         <h1>Хотите получить консультацию ?</h1>
@@ -35,5 +35,5 @@
         <br /><br /><br /><br />
       </div>
     </div>
-  </main>
+  </section>
 </div>
